@@ -5,12 +5,20 @@ const html=fs.readFileSync('outputs/device-library/index.html','utf8');
 const data=html.match(/<script id="device-data" type="application\/json">([\s\S]*?)<\/script>/)[1];
 const scripts=[...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m=>m[1]);
 const els=new Map(),storage=new Map();
-function el(key){if(!els.has(key))els.set(key,{value:'',textContent:'',innerHTML:'',hidden:false,disabled:false,checked:false,style:{setProperty(){}},dataset:{},classList:{toggle(){},contains(){return false;}},addEventListener(){},setAttribute(){},getAttribute(){},insertAdjacentHTML(){},insertBefore(){},append(){},remove(){},click(){},showModal(){this.open=true;},close(){this.open=false;}});return els.get(key);}
+function el(key){if(!els.has(key))els.set(key,{value:'',textContent:'',innerHTML:'',hidden:false,disabled:false,checked:false,style:{setProperty(){}},dataset:{},classList:{toggle(){},remove(){},contains(){return false;}},addEventListener(){},setAttribute(){},getAttribute(){},insertAdjacentHTML(){},insertBefore(){},append(){},remove(){},click(){},showModal(){this.open=true;},close(){this.open=false;}});return els.get(key);}
 el('device-data').textContent=data;
 for(const[id,value]of Object.entries({'#calc-w':1080,'#calc-h':2400,'#calc-density':3,'#calc-ppi':421,'#calc-key':44,'#calib-reference':100,'#calib-number':4}))el(id).value=String(value);
 const sandbox={console,URL,Blob,setTimeout,clearTimeout,Map,Set,JSON,Number,Math,Date,FileReader:class{},Image:class{},localStorage:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)},window:{devicePixelRatio:2,screen:{width:1920,height:1080},addEventListener(){},scrollTo(){}},document:{getElementById:el,querySelector:el,querySelectorAll:()=>[],addEventListener(){},body:el('body'),createElement:()=>el('created')}};
 vm.createContext(sandbox);for(const s of scripts)vm.runInContext(s,sandbox);
 const run=s=>vm.runInContext(s,sandbox);
+assert.equal(run("brandGroup('手机')[0]"),'苹果');
+assert.equal(run("brandGroup('平板')[0]"),'苹果');
+assert.equal(run("DEVICES.slice().sort(newestFirst).filter(d=>newestValue(d)).every((d,i,a)=>!i||newestValue(d)<=newestValue(a[i-1]))"),true);
+const foldRows=run("rowHtml(DEVICES.find(d=>d.model.includes('Mate XT'))) ");
+assert.ok(foldRows.includes('rowspan="3"'));assert.equal((foldRows.match(/data-device-row=/g)||[]).length,3);assert.ok(!foldRows.includes('<select'));assert.ok(!foldRows.includes('发货量'));
+run("selectedForms.add('横折');selectedForms.add('三折')");assert.equal(run("filtered().every(d=>['横折','三折'].includes(d.form))"),true);run('selectedForms.clear()');
+run("state.catalogType='平板';state.brand='苹果'");assert.equal(run("filtered().every(d=>d.type==='平板'&&d.brand==='苹果')"),true);run("state.catalogType='';state.brand=''");
+
 assert.equal(run('phys(65.16)'),'65.2');assert.equal(run('phys(8.25)'),'8.3');assert.equal(run('phys(-0.05)'),'-0.1');
 assert.equal(run("official(DEVICES.find(d=>d.brand==='iQOO')).url.includes('vivo.com.cn')"),true);
 assert.equal(run("state.sort='releaseDate';state.dir=-1;filtered().filter(d=>d.releaseDate).every((d,i,a)=>i===0||d.releaseDate<=a[i-1].releaseDate)"),true);
@@ -18,11 +26,13 @@ assert.equal(run("state.sort='resolution';state.dir=-1;filtered().filter(d=>reso
 assert.equal(run('calibrationValid()'),false);
 run("selected.clear();for(const name of ['Galaxy S21','Galaxy A72','iPhone 17 Pro'])selected.add(DEVICES.find(d=>d.model===name).id);renderWorkbench();");
 assert.ok(el('#bench-stage').innerHTML.includes('65.2 × 144.8'));
+assert.ok(el('#bench-stage').innerHTML.includes('border-radius:0px'));
+run("bench.frame='body';renderStage()");assert.ok(el('#bench-stage').innerHTML.includes('physical-body phone-body'));assert.ok(el('#bench-stage').innerHTML.includes('phone-camera'));run("bench.frame='screen';renderStage()");
 run("calibration={pxPerMm:4,signature:displaySignature()};bench.mode='real';renderStage();");
 assert.equal(run('calibrationValid()'),true);
 assert.ok(el('#bench-stage').innerHTML.includes('width:260.6365795724466px'));
 run('window.devicePixelRatio=1;renderStage()');assert.equal(run('bench.mode'),'fit');assert.equal(run('calibrationValid()'),false);
 run('calculate()');assert.equal(el('#physical-result').textContent,'65.2 × 144.8 mm');
 assert.equal(run("metrics({wpx:340,hpx:340,diagonal:1.04,shape:'circle'}).width.toFixed(3)"),'26.416');
-const report={models:run('DEVICES.length'),dateCount:run('DEVICES.filter(d=>d.releaseDate).length'),passed:['script initialization','rounding to 0.1mm','official domain matching','release-date sorting','resolution sorting','multi-device workbench','calibrated pixel dimensions','zoom invalidation','calculator','circular display geometry']};
+const report={models:run('DEVICES.length'),dateCount:run('DEVICES.filter(d=>d.releaseDate).length'),passed:['script initialization','rounding to 0.1mm','official domain matching','release-date sorting','resolution sorting','multi-device workbench','calibrated pixel dimensions','zoom invalidation','calculator','circular display geometry','grouped brands and type filtering','multi-select form tags','expanded foldable screen rows','newest-first workbench ordering','square UI and illustrative phone shells']};
 fs.writeFileSync('work/device-library/qa.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));
