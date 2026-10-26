@@ -1,0 +1,282 @@
+[
+  {
+    "brand": "OPPO",
+    "model": "Find N",
+    "year": 2021,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "132.6×73.0×15.90",
+    "bodyOpen": "132.6×140.2×7.80–8.00",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1920,
+        "hpx": 1792,
+        "diagonal": 7.1,
+        "ppi": 370,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 988,
+        "hpx": 1972,
+        "diagonal": 5.49,
+        "ppi": 402,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "OPPO 中国官方参数",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-n/find-n/specs/"
+      }
+    ],
+    "notes": "官方公开参数逐项核对。历史已发布不代表确认停售；官网保留参数页不作为库存证据。内屏按实际展开机身方向记为横向1920×1792，官网原文1792×1920；展开两侧厚度不同。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find N2",
+    "year": 2022,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "132.2×72.6×14.60",
+    "bodyOpen": "132.2×140.5×7.10–7.40",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1920,
+        "hpx": 1792,
+        "diagonal": 7.1,
+        "ppi": 370,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1080,
+        "hpx": 2120,
+        "diagonal": 5.54,
+        "ppi": 429,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "OPPO 中国官方参数",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-n/find-n2/specs/"
+      }
+    ],
+    "notes": "官方公开参数逐项核对。历史已发布不代表确认停售；官网保留参数页不作为库存证据。内屏按实际展开机身方向记为横向1920×1792；展开两侧厚度不同。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find N3",
+    "year": 2023,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "153.4×73.3×11.70–11.90",
+    "bodyOpen": "153.4×143.1×5.80–6.00",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 2268,
+        "hpx": 2440,
+        "diagonal": 7.82,
+        "ppi": 426,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1116,
+        "hpx": 2484,
+        "diagonal": 6.31,
+        "ppi": 431,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "OPPO 中国官方参数",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-n/find-n3/specs/"
+      }
+    ],
+    "notes": "官方公开参数逐项核对。历史已发布不代表确认停售；官网保留参数页不作为库存证据。玻璃/皮革版厚度不同，区间详见官方参数。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find N5",
+    "year": 2025,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "160.87×74.42×8.93–9.35",
+    "bodyOpen": "160.87×146.58×4.21–4.36",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 2248,
+        "hpx": 2480,
+        "diagonal": 8.12,
+        "ppi": 412,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1140,
+        "hpx": 2616,
+        "diagonal": 6.62,
+        "ppi": 431,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "OPPO 中国官方参数",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-n/find-n5/specs/"
+      }
+    ],
+    "notes": "官方公开参数逐项核对。历史已发布不代表确认停售；官网保留参数页不作为库存证据。暮紫厚度较大；玉白、缎黑为区间下限。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find N6",
+    "year": 2026,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "bodyFold": "159.87×74.12×8.93",
+    "bodyOpen": "159.87×145.58×4.21",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 2248,
+        "hpx": 2480,
+        "diagonal": 8.12,
+        "ppi": 412,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1140,
+        "hpx": 2616,
+        "diagonal": 6.62,
+        "ppi": 431,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "OPPO 中国官方参数",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-n/find-n6/specs/"
+      }
+    ],
+    "notes": "官方公开参数逐项核对。历史已发布不代表确认停售；官网保留参数页不作为库存证据。2026年3月正式发布；官网有当前产品入口，未验证逐SKU库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find N2 Flip",
+    "year": 2022,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "bodyFold": "85.5×75.2×16.02",
+    "bodyOpen": "166.2×75.2×7.45",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.8,
+        "ppi": 403,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 382,
+        "hpx": 720,
+        "diagonal": 3.26,
+        "ppi": 250,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "OPPO 中国官方参数",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-n/find-n2-flip/specs/"
+      }
+    ],
+    "notes": "官方公开参数逐项核对。历史已发布不代表确认停售；官网保留参数页不作为库存证据。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find N3 Flip",
+    "year": 2023,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "bodyFold": "85.5×75.8×16.45",
+    "bodyOpen": "166.4×75.8×7.79",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.8,
+        "ppi": 403,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 382,
+        "hpx": 720,
+        "diagonal": 3.26,
+        "ppi": 250,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "OPPO 中国官方参数",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-n/find-n3-flip/specs/"
+      }
+    ],
+    "notes": "官方公开参数逐项核对。历史已发布不代表确认停售；官网保留参数页不作为库存证据。"
+  }
+]

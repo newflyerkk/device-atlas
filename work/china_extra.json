@@ -1,0 +1,322 @@
+[
+  {
+    "brand": "华硕 ROG",
+    "model": "ROG 游戏手机 9",
+    "year": 2024,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "163.8×77×8.9 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2400,
+        "diagonal": 6.78,
+        "ppi": 388.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网产品规格",
+        "url": "https://rog.asus.com.cn/phones/rog-phone-9/spec/"
+      }
+    ],
+    "notes": "中国官网列示且提供购买渠道；实时库存未验证。"
+  },
+  {
+    "brand": "华硕 ROG",
+    "model": "ROG 游戏手机 9 Pro",
+    "year": 2024,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "163.8×77×8.9 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2400,
+        "diagonal": 6.78,
+        "ppi": 388.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网产品规格",
+        "url": "https://rog.asus.com.cn/phones/rog-phone-9-pro/spec/"
+      }
+    ],
+    "notes": "中国官网列示且提供购买渠道；实时库存未验证。"
+  },
+  {
+    "brand": "驰为",
+    "model": "Hi10 Max（Ultra 5 125U）",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "286.5×208.5×9.65 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1920,
+        "hpx": 2880,
+        "diagonal": 12.96,
+        "ppi": 267.1,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网产品规格",
+        "url": "https://www.chuwi.com/cn/product/items/chuwi-hi10-max/specs.html"
+      }
+    ],
+    "notes": "中国大陆官网列示，并链接京东/天猫渠道；Windows 11 二合一平板，Android dp 不适用，逻辑尺寸取决于 Windows 显示缩放。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔12 Pro+",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "163.03×75.96×8.55 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 6.85,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "官方商城商品页",
+        "url": "https://shop.redmagic.com/product/s/3328"
+      },
+      {
+        "title": "官方参数对比图",
+        "url": "https://cdn-shop.redmagic.com/active/6aced7066780b19.jpg"
+      }
+    ],
+    "notes": "官方公开商品接口get(productId=2178,specId=3328)返回立即购买及stock=1；尺寸与6.85英寸取自官方参数图。1.5K宣传称谓未臆算为像素。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔11 Pro+",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "163.82×76.54×8.9 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 6.85,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://shop.redmagic.com/"
+      },
+      {
+        "title": "官方新旧款参数对比图",
+        "url": "https://cdn-shop.redmagic.com/active/6aced7066780b19.jpg"
+      }
+    ],
+    "notes": "官方商城导航/公开目录接口列示；本轮未完成逐型号参数与库存核验。"
+  },
+  {
+    "brand": "摩托罗拉",
+    "model": "moto X70 Air",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "159.87×74.28×5.99 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1220,
+        "hpx": 2712,
+        "diagonal": 6.7,
+        "ppi": 443.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://item.lenovo.com.cn/product/1049831.html"
+      },
+      {
+        "title": "中国官方商城配置信息",
+        "url": "https://item.lenovo.com.cn/product/1052624.html"
+      }
+    ],
+    "notes": "联想中国官网当前导航或商城列示；参数与实时库存待核实。"
+  },
+  {
+    "brand": "摩托罗拉",
+    "model": "moto X70 Air Pro",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1264,
+        "hpx": 2780,
+        "diagonal": 6.78,
+        "ppi": 450.4,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.lenovo.com.cn/index.html"
+      },
+      {
+        "title": "中国官方商城配置信息",
+        "url": "https://item.lenovo.com.cn/product/1051920.html"
+      }
+    ],
+    "notes": "联想中国官网当前导航或商城列示；参数与实时库存待核实。"
+  },
+  {
+    "brand": "努比亚",
+    "model": "努比亚Z80 Ultra",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1216,
+        "hpx": 2688,
+        "diagonal": 6.85,
+        "ppi": 430.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.ztedevices.com/cn/product/nubia-z80-ultra/"
+      },
+      {
+        "title": "中兴官方商城参数",
+        "url": "https://www.ztemall.com/cn/goodsdetail/1445"
+      }
+    ],
+    "notes": "中兴官方商城列示价格与购买入口；库存未核实。"
+  },
+  {
+    "brand": "联想",
+    "model": "拯救者手机 Y70 新一代",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 6.82,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网商城参数",
+        "url": "https://item.lenovo.com.cn/product/1054682.html"
+      }
+    ],
+    "notes": "联想中国官网当前导航列示；官方商城静态参数未列确切分辨率，第三方资料相互矛盾，分辨率留空。"
+  },
+  {
+    "brand": "努比亚",
+    "model": "努比亚 NaviX Ultra",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "162.11×75.69×7.62 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2800,
+        "diagonal": 6.78,
+        "ppi": 452.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网商城参数",
+        "url": "https://www.ztemall.com/cn/goodsdetail/1608"
+      }
+    ],
+    "notes": "官方商城列示2026年9月上市；同页标475PPI但与6.78英寸/1260×2800计算约452.9PPI冲突，本表保留计算值并提示差异；库存未核实。"
+  }
+]

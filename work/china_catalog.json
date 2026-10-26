@@ -1,0 +1,4868 @@
+[
+  {
+    "brand": "OPPO",
+    "model": "A5 活力版",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 164.82 毫米 宽 约 75.53 毫米 厚 约 7.86 毫米（玉石绿） 约 7.76 毫米（玛瑙粉，琥珀黑）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 6.67,
+        "ppi": 264,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-a/a5-energy-edition/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "A6 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 158.16 毫米 宽 约 74.99 毫米 厚 约 7.96 毫米（墨玉黑） 约 8.11 毫米（流水生金） 约 8.03 毫米（青云平步）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2372,
+        "diagonal": 6.57,
+        "ppi": 397,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-a/a6-pro/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "A6k",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 166.61 毫米 宽 约 78.51 毫米 厚 约 8.61 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 6.75,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-a/a6k/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "A7 Pro Max",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 162.98 毫米 宽 约 77.97 毫米 厚 约 8.57 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1272,
+        "hpx": 2772,
+        "diagonal": 6.78,
+        "ppi": 449.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-a/a7-pro-max/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "A7 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 159.08 毫米 宽 约 75.81 毫米 厚 约 8.80 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2372,
+        "diagonal": 6.57,
+        "ppi": 396.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-a/a7-pro/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X10 E",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 156.98 毫米 宽 约 73.93 毫米 厚 约 7.99 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1256,
+        "hpx": 2760,
+        "diagonal": 6.59,
+        "ppi": 460.1,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x10-e/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X10 Pro Max",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 161.32 毫米 宽 约 76.57 毫米 厚 约 8.40 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1272,
+        "hpx": 2772,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x10-pro-max/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X10",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 156.51 毫米 宽 约 74.29 毫米 厚 约 8.35 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1272,
+        "hpx": 2768,
+        "diagonal": 6.59,
+        "ppi": 462,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x10/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X8 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 162.27 毫米 宽 约 76.67 毫米 厚 约 8.24 毫米（星野黑） 约 8.34 毫米（漫步云端，晴空航线）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1264,
+        "hpx": 2780,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x8-pro/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X8 Ultra",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 163.09 毫米 宽 约 76.80 毫米 厚 约 8.78 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3168,
+        "diagonal": 6.82,
+        "ppi": 510,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x8-ultra/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X8s+",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 157.53 毫米 宽 约 74.51 毫米 厚 约 7.95 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1256,
+        "hpx": 2760,
+        "diagonal": 6.59,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x8s-plus/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X9 Pro 卫星通信版",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 161.26 毫米 宽 约 76.46 毫米 厚 约 8.25 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1272,
+        "hpx": 2772,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x9-pro-satellite/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X9 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 161.26 毫米 宽 约 76.46 毫米 厚 约 8.25 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1272,
+        "hpx": 2772,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x9-pro/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X9 Ultra",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 163.16 毫米 宽 约 76.97 毫米 厚 约 9.10 毫米（大地苔原） 约 8.65 毫米（极地冰川，绒砂峡谷）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3168,
+        "diagonal": 6.82,
+        "ppi": 510,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x9-ultra/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X9",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 156.98 毫米 宽 约 73.93 毫米 厚 约 7.99 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1256,
+        "hpx": 2760,
+        "diagonal": 6.59,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x9/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Find X9s Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 150.46 毫米 宽 约 71.72 毫米 厚 约 8.60 毫米（乘风青） 约 8.40 毫米（元气橙，原生钛，自在白）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1216,
+        "hpx": 2640,
+        "diagonal": 6.32,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-find-x/find-x9s-pro/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "K12s",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 163.21 毫米 宽 约 76.13 毫米 厚 约 8.45 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2400,
+        "diagonal": 6.67,
+        "ppi": 394,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-k/k12s/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "K13 Turbo Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 162.78 毫米 宽 约 77.22 毫米 厚 约 8.31 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1280,
+        "hpx": 2800,
+        "diagonal": 6.8,
+        "ppi": 453,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-k/k13-turbo-pro/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "K13 Turbo",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 162.78 毫米 宽 约 77.22 毫米 厚 约 8.31 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1280,
+        "hpx": 2800,
+        "diagonal": 6.8,
+        "ppi": 453,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-k/k13-turbo/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "K15 Pro+",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 162.40 毫米 宽 约 77.47 毫米 厚 约 8.33 毫米（光尘粉，赛博光翼） 约 8.25 毫米（起源灰）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1272,
+        "hpx": 2772,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-k/k15-pro-plus/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "K15 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 158.30 毫米 宽 约 75.13 毫米 厚 约 8.30 毫米（光尘粉，起源灰） 约 8.37 毫米（赛博光翼，金色传说）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1256,
+        "hpx": 2760,
+        "diagonal": 6.59,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-k/k15-pro/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Reno14",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 157.90 毫米 宽 约 74.73 毫米 厚 约 7.42 毫米（人鱼姬，半夏绿，日月光） 约 7.32 毫米（礁石黑）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1256,
+        "hpx": 2760,
+        "diagonal": 6.59,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-reno/reno14/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Reno15 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 161.26 毫米 宽 约 76.46 毫米 厚 约 7.65 毫米（可露丽棕，蜜糖金） 约 7.75 毫米（星光蝴蝶结）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1272,
+        "hpx": 2772,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-reno/reno15-pro/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Reno15",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 151.21 毫米 宽 约 72.42 毫米 厚 约 7.99 毫米（可露丽棕，星光蝴蝶结） 约 8.13 毫米（星星粉，极光蓝）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1216,
+        "hpx": 2640,
+        "diagonal": 6.32,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-reno/reno15/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Reno16 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 161.31 毫米 宽 约 76.46 毫米 厚 约 7.86 毫米（怦然星动） 约 7.70 毫米（月夜黑） 约 7.79 毫米（梦境蓝）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1272,
+        "hpx": 2772,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-reno/reno16-pro/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "Reno16",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 151.21 毫米 宽 约 72.42 毫米 厚 约 8.36 毫米（半夏青，怦然星动） 约 8.29 毫米（星河紫） 约 8.20 毫米（月夜黑）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1216,
+        "hpx": 2640,
+        "diagonal": 6.32,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/smartphones/series-reno/reno16/specs/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo X500",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 157.01mm 宽度 74.49mm 厚度 8.15mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2750,
+        "diagonal": 6.59,
+        "ppi": 459.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/x500"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年9月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo X500 Pro",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 151.78mm 宽度 71.92mm 厚度 摄夜：7.95mm 大地回声、晴天、览霞：8.12mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1216,
+        "hpx": 2660,
+        "diagonal": 6.36,
+        "ppi": 459.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/x500pro"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年9月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo X500 Pro Max",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 163.32mm 宽度 76.82mm 厚度 摄夜：7.95mm 大地回声、晴天、览霞：8.12mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3168,
+        "diagonal": 6.85,
+        "ppi": 508.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/x500promax"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年9月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo X300 Ultra",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 162.98mm 宽度 76.81mm 厚度 黑Ka：8.19mm 胶片绿、银调：8.49mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3168,
+        "diagonal": 6.82,
+        "ppi": 510.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/x300ultra"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年3月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo X300s",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 161.98mm 宽度 75.48mm 厚度 8.00mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2800,
+        "diagonal": 6.78,
+        "ppi": 452.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/x300s"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年3月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo X300 Pro",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 161.98mm 宽度 75.48mm 厚度 7.99mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2800,
+        "diagonal": 6.78,
+        "ppi": 452.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/x300pro"
+      }
+    ],
+    "notes": "参数页可访问但显示缺货或未见购买入口，当前在售状态待核实。 官方上市时间 上市时间 2025年10月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo X300",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 150.57mm 宽度 71.92mm 厚度 7.95mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1216,
+        "hpx": 2640,
+        "diagonal": 6.31,
+        "ppi": 460.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/x300"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2025年10月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo S60",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 约157.52mm 宽度 约74.33mm 厚度 星星海：约7.92mm 初夏绿、仲夏夜：约7.79mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2750,
+        "diagonal": 6.59,
+        "ppi": 459.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/s60"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年5月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo S50",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 约157.52mm 宽度 约74.33mm 厚度 告白、悠悠蓝：约7.59mm 深空黑、灵感紫：约7.49mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2750,
+        "diagonal": 6.59,
+        "ppi": 459.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/s50"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2025年12月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo S50 Pro mini",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 约150.83mm 宽度 约71.76mm 厚度 告白:约8.10mm 深空黑、灵感紫:约7.99mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1216,
+        "hpx": 2640,
+        "diagonal": 6.31,
+        "ppi": 460.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/s50promini"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2025年12月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo Y600",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 163.90mm 宽度 76.50mm 厚度 8.59mm(宝石蓝、曜石黑) 8.69mm(钻石金）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2800,
+        "diagonal": 6.83,
+        "ppi": 449.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/y600"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年10月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo Y500",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 163.10mm 宽度 75.90mm 厚度 8.23mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2392,
+        "diagonal": 6.77,
+        "ppi": 387.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/y500"
+      }
+    ],
+    "notes": "参数页可访问但显示缺货或未见购买入口，当前在售状态待核实。 官方上市时间 上市时间 2025年9月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo Y500 Pro",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 160.23mm 宽度 74.51mm 厚度 7.81mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2800,
+        "diagonal": 6.67,
+        "ppi": 460.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/y500pro"
+      }
+    ],
+    "notes": "参数页可访问但显示缺货或未见购买入口，当前在售状态待核实。 官方上市时间 上市时间 2025年11月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo Y500i",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 166.64mm 宽度 78.43mm 厚度 星河银、幸运红、曜石黑：8.39mm 凤迎金：8.49mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 720,
+        "hpx": 1570,
+        "diagonal": 6.75,
+        "ppi": 255.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/y500i"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年1月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo Y300",
+    "year": 2024,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 163.57mm 宽度 76.18mm 厚度 瑞雪白、星钻黑：7.79mm 青松：7.85mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2392,
+        "diagonal": 6.77,
+        "ppi": 387.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/y300"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2024年12月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo Y300 Pro+",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 163.40mm 宽度 76.40mm 厚度 星空银、微粉：7.89mm 简黑：7.93mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2392,
+        "diagonal": 6.77,
+        "ppi": 387.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/y300proplus"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2025年3月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo Pad6 Pro",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 297.03mm 宽度 199.82mm 厚度 6.18mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2512,
+        "hpx": 3840,
+        "diagonal": 13.2,
+        "ppi": 347.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/vivopad6pro"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年03月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo Pad5",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 266.43mm 宽度 192mm 厚度 6.62mm(标准版)；6.69mm（柔光版）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1968,
+        "hpx": 2800,
+        "diagonal": 12.1,
+        "ppi": 282.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/vivopad5"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2025年5月。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo Pad5 Pro",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 289.56mm 宽度 198.32mm 厚度 轻羽白（超轻版）5.96mm 寒星灰、春潮蓝、云霞粉 6.16mm 寒星灰（柔光版）6.18mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2064,
+        "hpx": 3096,
+        "diagonal": 13.0,
+        "ppi": 286.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/vivopad5pro"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2025年4月。"
+  },
+  {
+    "brand": "iQOO",
+    "model": "iQOO 16",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 163.75mm 宽度 76.90mm 厚度 赛道：8.30mm 传奇：8.40mm 逐光：8.55mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3168,
+        "diagonal": 6.85,
+        "ppi": 508.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/iqoo16"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年9月。"
+  },
+  {
+    "brand": "iQOO",
+    "model": "iQOO 15",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 163.65mm 宽度 76.80mm 厚度 赛道版：8.10mm 传奇版/旷野：8.17mm 凌云：8.28mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3168,
+        "diagonal": 6.85,
+        "ppi": 508.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/iqoo15"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2025年10月。"
+  },
+  {
+    "brand": "iQOO",
+    "model": "iQOO 15 Ultra",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 163.65mm 宽度 76.80mm 厚度 8.70mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3168,
+        "diagonal": 6.85,
+        "ppi": 508.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/iqoo15ultra"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年2月。"
+  },
+  {
+    "brand": "iQOO",
+    "model": "iQOO Neo11",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 163.37mm 宽度 76.71mm 厚度 疾影黑、驰光白、像素方橙：8.05mm 面对疾风：8.13mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3168,
+        "diagonal": 6.82,
+        "ppi": 510.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/iqooneo11"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2025年10月。"
+  },
+  {
+    "brand": "iQOO",
+    "model": "iQOO Z11",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 163.72mm 宽度 76.17mm 厚度 8.25mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2800,
+        "diagonal": 6.83,
+        "ppi": 449.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/iqooz11"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年3月。"
+  },
+  {
+    "brand": "iQOO",
+    "model": "iQOO Z11x",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 166.64mm 宽度 78.43mm 厚度 夜影黑、雪屿白：8.39mm 冰青绿：8.49mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2344,
+        "diagonal": 6.76,
+        "ppi": 381.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/iqooz11x"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年3月。"
+  },
+  {
+    "brand": "iQOO",
+    "model": "iQOO Z11i",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 167.40mm 宽度 77.10mm 厚度 8.39mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 720,
+        "hpx": 1600,
+        "diagonal": 6.74,
+        "ppi": 260.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/iqooz11i"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年7月。"
+  },
+  {
+    "brand": "iQOO",
+    "model": "iQOO Pad5",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 266.43mm 宽度 192mm 厚度 6.62mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1968,
+        "hpx": 2800,
+        "diagonal": 12.1,
+        "ppi": 282.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/iqoopad5"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2025年5月。"
+  },
+  {
+    "brand": "iQOO",
+    "model": "iQOO Pad Ultra",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高度 197.36mm 宽度 126.25mm 厚度 5.74mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 2304,
+        "diagonal": 8.8,
+        "ppi": 308.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.vivo.com.cn/vivo/param/iqoopadultra"
+      }
+    ],
+    "notes": "参数页可访问；有购买入口不等于库存。 官方上市时间 上市时间 2026年9月。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我GT8 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 161.80 毫米 宽 约 76.87 毫米 厚 约 8.30 毫米（布鲁，格林） 约 8.20 毫米（怀特，马丁绿）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3136,
+        "diagonal": 6.79,
+        "ppi": 508.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/realme-gt-8-pro/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我GT8",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 161.80 毫米 宽 约 76.87 毫米 厚 约 8.20 毫米（怀特，纳维） 约 8.30 毫米（格林）",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3136,
+        "diagonal": 6.79,
+        "ppi": 508,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/realme-gt-8/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我GT7",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1280,
+        "hpx": 2800,
+        "diagonal": 6.8,
+        "ppi": 452.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/realme-gt-7/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我GT7 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/realme-gt-7-pro/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我Neo8",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "高 约 162.00 毫米 宽 77.07 毫米 厚 8.30 毫米",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1272,
+        "hpx": 2772,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/realme-neo-8/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我Neo7 Turbo",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1280,
+        "hpx": 2800,
+        "diagonal": 6.8,
+        "ppi": 452.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/realme-neo-7-turbo/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我15T",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2372,
+        "diagonal": 6.57,
+        "ppi": 396.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/realme-15-t/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我15 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1280,
+        "hpx": 2800,
+        "diagonal": 6.8,
+        "ppi": 452.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/realme-15-pro/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我15",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2392,
+        "diagonal": 6.77,
+        "ppi": 387.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/more-products/realme-15/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我V70s",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 720,
+        "hpx": 1604,
+        "diagonal": 6.67,
+        "ppi": 263.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/more-products/realme-v-70s/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "realme 真我",
+    "model": "真我V70",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 720,
+        "hpx": 1604,
+        "diagonal": 6.67,
+        "ppi": 263.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.realme.com/cn/more-products/realme-v-70/specs"
+      }
+    ],
+    "notes": "中国官网当前手机导航列示；库存未核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 16",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "161.42×76.67×8.45–8.55 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1272,
+        "hpx": 2772,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/16/specs"
+      }
+    ],
+    "notes": "官方规格已核实；厚度依配色变化，库存未核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 15T",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/15t/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 15",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/15/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 13T",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/13t/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Ace 6 至尊版",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/ace-6-ultra/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Ace 6T",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/ace-6t/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Ace 6T 原神版",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/ace-6t-edition/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Ace 6",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/ace-6/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Ace 5 至尊版",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/ace-5-ultra/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Ace 5 竞速版",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/ace-5-race/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Ace 5 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "161.72×75.77×8.14 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1264,
+        "hpx": 2780,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/ace-5-pro/specs"
+      }
+    ],
+    "notes": "官方规格已核实，库存未核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Ace 5",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "161.72×75.77×8.02 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1264,
+        "hpx": 2780,
+        "diagonal": 6.78,
+        "ppi": 450,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/ace-5/specs"
+      }
+    ],
+    "notes": "官方规格已核实，库存未核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Turbo 6X Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/turbo-6x-pro/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Turbo 6X",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/turbo-6x/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Turbo 6",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/turbo-6/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加 Turbo 6V",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oneplus.com/cn/turbo-6v/specs"
+      }
+    ],
+    "notes": "中国官网目录列示；动态参数页未完整提取，空字段需后续核实。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "OPPO Pad 6",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/tablets/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "OPPO Pad Mini",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "194.38×132.38×5.39–5.46 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1680,
+        "hpx": 2520,
+        "diagonal": 8.8,
+        "ppi": 344,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/tablets/"
+      },
+      {
+        "title": "OPPO 官方商城参数",
+        "url": "https://store.oppo.com/cn/app/product/index?skuId=39991"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "OPPO Pad 5 Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2400,
+        "hpx": 3392,
+        "diagonal": 13.2,
+        "ppi": 315,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/tablets/"
+      },
+      {
+        "title": "OPPO 官方商城参数",
+        "url": "https://www.opposhop.cn/cn/web/products/40012.html?us=search"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "OPPO Pad 5",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/tablets/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "OPPO Pad Air5",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1980,
+        "hpx": 2800,
+        "diagonal": 12.1,
+        "ppi": 284,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/tablets/"
+      },
+      {
+        "title": "OPPO 官方商城参数",
+        "url": "https://www.opposhop.cn/cn/web/products/41398.html?us=search"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "OPPO Pad 4 Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/tablets/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "OPPO Pad SE",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/tablets/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "OPPO Pad 3 Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/tablets/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "OPPO",
+    "model": "OPPO Pad 3",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/tablets/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加平板 3 Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/oneplus/tablets/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加平板 2 Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2400,
+        "hpx": 3392,
+        "diagonal": 13.2,
+        "ppi": 315,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/oneplus/tablets/"
+      },
+      {
+        "title": "OPPO 官方商城参数",
+        "url": "https://www.opposhop.cn/cn/web/products/33990.html"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加平板 2",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/oneplus/tablets/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "一加",
+    "model": "一加平板",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.oppo.com/cn/oneplus/tablets/"
+      }
+    ],
+    "notes": "官网目录带购买入口；未核实实时库存，屏幕参数待补。"
+  },
+  {
+    "brand": "魅族",
+    "model": "魅族 22",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://detail.meizu.com/item/meizu22.html"
+      }
+    ],
+    "notes": "官网首页列示价格及产品入口；详细参数未完整提取。"
+  },
+  {
+    "brand": "魅族",
+    "model": "魅族 22 归航 · 中华旗舰限定版",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://detail.meizu.com/item/meizu22xdb.html"
+      }
+    ],
+    "notes": "官网首页列示价格及产品入口；详细参数未完整提取。"
+  },
+  {
+    "brand": "魅族",
+    "model": "魅族 Note 16",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://detail.meizu.com/item/meizunote16.html"
+      }
+    ],
+    "notes": "官网首页列示价格及产品入口；详细参数未完整提取。"
+  },
+  {
+    "brand": "魅族",
+    "model": "魅族 Note 16 Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://detail.meizu.com/item/meizunote16pro.html"
+      }
+    ],
+    "notes": "官网首页列示价格及产品入口；详细参数未完整提取。"
+  },
+  {
+    "brand": "魅族",
+    "model": "魅族 Lucky 08",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://detail.meizu.com/item/Lucky08.html"
+      }
+    ],
+    "notes": "官网首页列示价格及产品入口；详细参数未完整提取。"
+  },
+  {
+    "brand": "魅族",
+    "model": "魅族 21",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://detail.meizu.com/item/meizu21.html"
+      }
+    ],
+    "notes": "官网首页列示价格及产品入口；详细参数未完整提取。"
+  },
+  {
+    "brand": "魅族",
+    "model": "魅族 21 PRO",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://detail.meizu.com/item/meizu21pro.html"
+      }
+    ],
+    "notes": "官网首页列示价格及产品入口；详细参数未完整提取。"
+  },
+  {
+    "brand": "魅族",
+    "model": "魅族 21 Note",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://detail.meizu.com/item/meizu21note.html"
+      }
+    ],
+    "notes": "官网首页列示价格及产品入口；详细参数未完整提取。"
+  },
+  {
+    "brand": "酷比魔方",
+    "model": "掌玩mini 4 Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1600,
+        "hpx": 2560,
+        "diagonal": 8.8,
+        "ppi": 343.1,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.51cube.com/products/iplay80miniturbo/"
+      }
+    ],
+    "notes": "官网当前导航列示，库存未核实。"
+  },
+  {
+    "brand": "酷比魔方",
+    "model": "iPlay 70E",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1200,
+        "hpx": 1920,
+        "diagonal": 11.0,
+        "ppi": 205.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.51cube.com/products/iplay70e/"
+      }
+    ],
+    "notes": "官网当前导航列示，库存未核实。"
+  },
+  {
+    "brand": "酷比魔方",
+    "model": "掌玩mini 4 Ultra",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1600,
+        "hpx": 2560,
+        "diagonal": 8.8,
+        "ppi": 343,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.51cube.com/products/iplay80miniultra/"
+      }
+    ],
+    "notes": "官网当前导航列示，库存未核实。"
+  },
+  {
+    "brand": "酷比魔方",
+    "model": "Ultra Pad",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 13.0,
+        "ppi": 264,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.51cube.com/products/ultrapad/"
+      }
+    ],
+    "notes": "官网当前导航列示，库存未核实。"
+  },
+  {
+    "brand": "酷比魔方",
+    "model": "掌玩mini 3",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 8.4,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.51cube.com/products/iplay70minipro/"
+      }
+    ],
+    "notes": "官网当前导航列示，库存未核实。"
+  },
+  {
+    "brand": "酷比魔方",
+    "model": "掌玩mini 3 Ultra",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1600,
+        "hpx": 2560,
+        "diagonal": 8.8,
+        "ppi": 343,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.51cube.com/products/iplay70miniultra/"
+      }
+    ],
+    "notes": "官网当前导航列示，库存未核实。"
+  },
+  {
+    "brand": "酷比魔方",
+    "model": "掌玩mini 2 4G",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1200,
+        "hpx": 1920,
+        "diagonal": 8.4,
+        "ppi": 269.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.51cube.com/products/iplay60minipro/"
+      }
+    ],
+    "notes": "官网当前导航列示，库存未核实。"
+  },
+  {
+    "brand": "酷比魔方",
+    "model": "iPlay 60 Pro 典藏版",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1200,
+        "hpx": 1920,
+        "diagonal": 11.0,
+        "ppi": 205.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.51cube.com/products/iplay60pro/"
+      }
+    ],
+    "notes": "官网当前导航列示，库存未核实。"
+  },
+  {
+    "brand": "酷比魔方",
+    "model": "酷玩Pad Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1600,
+        "hpx": 2560,
+        "diagonal": 12.1,
+        "ppi": 249.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.51cube.com/products/iplay60padpronormal/"
+      }
+    ],
+    "notes": "官网当前导航列示，库存未核实。"
+  },
+  {
+    "brand": "酷比魔方",
+    "model": "iPlay 60 mini",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 8.68,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.51cube.com/products/iplay60mini/"
+      }
+    ],
+    "notes": "官网当前导航列示，库存未核实。"
+  },
+  {
+    "brand": "联想",
+    "model": "拯救者 Y700 五代",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1904,
+        "hpx": 3040,
+        "diagonal": 8.8,
+        "ppi": 407.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://item.lenovo.com.cn/product/1053090.html"
+      }
+    ],
+    "notes": "联想中国官网商城参数；库存未核实。"
+  },
+  {
+    "brand": "联想",
+    "model": "拯救者 Y700 无极",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1600,
+        "hpx": 2560,
+        "diagonal": 8.4,
+        "ppi": 359.4,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://item.lenovo.com.cn/product/1056714.html"
+      }
+    ],
+    "notes": "联想中国官网商城参数；库存未核实。"
+  },
+  {
+    "brand": "联想",
+    "model": "拯救者 Y900 11",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2560,
+        "hpx": 3840,
+        "diagonal": 11.1,
+        "ppi": 415.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://item.lenovo.com.cn/product/1054318.html"
+      }
+    ],
+    "notes": "联想中国官网商城参数；库存未核实。"
+  },
+  {
+    "brand": "联想",
+    "model": "拯救者 Y900 13",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2560,
+        "hpx": 3840,
+        "diagonal": 13.0,
+        "ppi": 355.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://item.lenovo.com.cn/product/1054294.html"
+      }
+    ],
+    "notes": "联想中国官网商城参数；库存未核实。"
+  },
+  {
+    "brand": "联想",
+    "model": "小新平板 11",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.lenovo.com.cn/index.html"
+      }
+    ],
+    "notes": "联想中国官网当前导航或商城列示；参数与实时库存待核实。"
+  },
+  {
+    "brand": "联想",
+    "model": "小新平板 Pro GT",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.lenovo.com.cn/index.html"
+      }
+    ],
+    "notes": "联想中国官网当前导航或商城列示；参数与实时库存待核实。"
+  },
+  {
+    "brand": "摩托罗拉",
+    "model": "moto g100",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2400,
+        "diagonal": 6.72,
+        "ppi": 391.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://item.lenovo.com.cn/product/1049834.html"
+      }
+    ],
+    "notes": "联想中国官网商城参数；库存未核实。"
+  },
+  {
+    "brand": "摩托罗拉",
+    "model": "moto g100s",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1220,
+        "hpx": 2712,
+        "diagonal": 6.7,
+        "ppi": 443.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://item.lenovo.com.cn/product/1047213.html"
+      }
+    ],
+    "notes": "联想中国官网商城参数；库存未核实。"
+  },
+  {
+    "brand": "摩托罗拉",
+    "model": "moto X70 Air",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "159.87×74.28×5.99 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1220,
+        "hpx": 2712,
+        "diagonal": 6.7,
+        "ppi": 443.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://item.lenovo.com.cn/product/1049831.html"
+      },
+      {
+        "title": "中国官方商城配置信息",
+        "url": "https://item.lenovo.com.cn/product/1052624.html"
+      }
+    ],
+    "notes": "联想中国官网当前导航或商城列示；参数与实时库存待核实。"
+  },
+  {
+    "brand": "摩托罗拉",
+    "model": "moto X70 Air Pro",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1264,
+        "hpx": 2780,
+        "diagonal": 6.78,
+        "ppi": 450.4,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官方参数或产品目录",
+        "url": "https://www.lenovo.com.cn/index.html"
+      },
+      {
+        "title": "中国官方商城配置信息",
+        "url": "https://item.lenovo.com.cn/product/1051920.html"
+      }
+    ],
+    "notes": "联想中国官网当前导航或商城列示；参数与实时库存待核实。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo X Fold5",
+    "year": 2025,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "bodyFold": "159.68×72.60×9.20–9.70 mm",
+    "bodyOpen": "159.68×142.29×4.30–4.55 mm",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 2200,
+        "hpx": 2480,
+        "diagonal": 8.03,
+        "ppi": 412.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1172,
+        "hpx": 2748,
+        "diagonal": 6.53,
+        "ppi": 457.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.vivo.com.cn/vivo/param/xfold5"
+      }
+    ],
+    "notes": "机身按高×宽×厚；不同配色厚度不同。官方参数页有购买入口不代表实时库存。"
+  },
+  {
+    "brand": "vivo",
+    "model": "vivo X Fold6",
+    "year": 2026,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "bodyFold": "157.16×74.26×9.40–9.90 mm",
+    "bodyOpen": "157.16×145.66×4.40–4.80 mm",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 2312,
+        "hpx": 2504,
+        "diagonal": 8.02,
+        "ppi": 425.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1120,
+        "hpx": 2528,
+        "diagonal": 6.51,
+        "ppi": 424.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.vivo.com.cn/vivo/param/xfold6"
+      }
+    ],
+    "notes": "机身按高×宽×厚；不同配色厚度不同。官方参数页有购买入口不代表实时库存。"
+  },
+  {
+    "brand": "摩托罗拉",
+    "model": "moto razr Fold",
+    "year": 2026,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 8.09,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 6.56,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://item.lenovo.com.cn/product/1054352.html"
+      }
+    ],
+    "notes": "官网目录列示；当前库存与销售状态未独立核实。"
+  },
+  {
+    "brand": "摩托罗拉",
+    "model": "moto razr 70 Ultra",
+    "year": 2026,
+    "type": "手机",
+    "form": "竖折",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1224,
+        "hpx": 2992,
+        "diagonal": 6.96,
+        "ppi": 464.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1080,
+        "hpx": 1272,
+        "diagonal": 4.0,
+        "ppi": 417.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://item.lenovo.com.cn/product/1054587.html"
+      }
+    ],
+    "notes": "官网目录列示；当前库存与销售状态未独立核实。"
+  },
+  {
+    "brand": "摩托罗拉",
+    "model": "moto razr 60",
+    "year": 2025,
+    "type": "手机",
+    "form": "竖折",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://item.lenovo.com.cn/product/1045234.html"
+      }
+    ],
+    "notes": "官网目录列示；当前库存与销售状态未独立核实。"
+  },
+  {
+    "brand": "摩托罗拉",
+    "model": "moto razr 60 Pro",
+    "year": 2025,
+    "type": "手机",
+    "form": "竖折",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://item.lenovo.com.cn/product/1046361.html"
+      }
+    ],
+    "notes": "官网目录列示；当前库存与销售状态未独立核实。"
+  },
+  {
+    "brand": "台电",
+    "model": "T60Mini",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 8.8,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/T60Mini/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "M60",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 12.0,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/M60/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "ArtPad",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 13.2,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/ArtPad/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "ArtPad Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 12.7,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/ArtPadPro/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "ArtPad Air",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 11.0,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/ArtPadAir/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "T70Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 14.0,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/T70Pro/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "T70 2026",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 14.0,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/T702026/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "T65 2026",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 13.4,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/T652026/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "T65",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 13.4,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/T65/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "T65Plus",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 13.4,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/T65Plus/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "T50Mini",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 8.7,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/T50Mini/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "T50Plus",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 11.0,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/T50Plus2025/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "T65Max",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 13.0,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/T65Max/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "P50",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 11.0,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/P50/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "台电",
+    "model": "P30T",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 10.1,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.teclast.com/zt/P30T/"
+      }
+    ],
+    "notes": "中国官网目录列示，但未独立确认零售库存；宣传页参数多为图片，未将2K/2.2K等营销称谓臆算成像素。"
+  },
+  {
+    "brand": "努比亚",
+    "model": "努比亚Z80 Ultra",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1216,
+        "hpx": 2688,
+        "diagonal": 6.85,
+        "ppi": 430.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.ztedevices.com/cn/product/nubia-z80-ultra/"
+      },
+      {
+        "title": "中兴官方商城参数",
+        "url": "https://www.ztemall.com/cn/goodsdetail/1445"
+      }
+    ],
+    "notes": "中兴官方商城列示价格与购买入口；库存未核实。"
+  },
+  {
+    "brand": "努比亚",
+    "model": "努比亚Z70S Ultra摄影师版",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://www.ztedevices.com/cn/product/nubia-z70s-ultra-photographer-edition/"
+      }
+    ],
+    "notes": "中国官网产品库列示；产品库含历史机型，不代表当前有货。规格页参数图片未转录。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔12 Pro+",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "163.03×75.96×8.55 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 6.85,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "官方商城商品页",
+        "url": "https://shop.redmagic.com/product/s/3328"
+      },
+      {
+        "title": "官方参数对比图",
+        "url": "https://cdn-shop.redmagic.com/active/6aced7066780b19.jpg"
+      }
+    ],
+    "notes": "官方公开商品接口get(productId=2178,specId=3328)返回立即购买及stock=1；尺寸与6.85英寸取自官方参数图。1.5K宣传称谓未臆算为像素。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔11S Pro+",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://shop.redmagic.com/"
+      }
+    ],
+    "notes": "官方商城导航/公开目录接口列示；本轮未完成逐型号参数与库存核验。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔11S Pro",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://shop.redmagic.com/"
+      }
+    ],
+    "notes": "官方商城导航/公开目录接口列示；本轮未完成逐型号参数与库存核验。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔11 Air",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://shop.redmagic.com/"
+      }
+    ],
+    "notes": "官方商城导航/公开目录接口列示；本轮未完成逐型号参数与库存核验。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔11 Pro+",
+    "year": null,
+    "type": "手机",
+    "form": "直板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "163.82×76.54×8.9 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 6.85,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://shop.redmagic.com/"
+      },
+      {
+        "title": "官方新旧款参数对比图",
+        "url": "https://cdn-shop.redmagic.com/active/6aced7066780b19.jpg"
+      }
+    ],
+    "notes": "官方商城导航/公开目录接口列示；本轮未完成逐型号参数与库存核验。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔游戏平板5 Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://shop.redmagic.com/"
+      }
+    ],
+    "notes": "官方商城导航/公开目录接口列示；本轮未完成逐型号参数与库存核验。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔电竞平板3 Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://shop.redmagic.com/"
+      }
+    ],
+    "notes": "官方商城导航/公开目录接口列示；本轮未完成逐型号参数与库存核验。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔电竞平板Pro",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://shop.redmagic.com/"
+      }
+    ],
+    "notes": "官方商城导航/公开目录接口列示；本轮未完成逐型号参数与库存核验。"
+  },
+  {
+    "brand": "红魔",
+    "model": "红魔平板 3D探索版",
+    "year": null,
+    "type": "平板",
+    "form": "平板",
+    "market": "待核实",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": null,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "厂商官网",
+        "url": "https://shop.redmagic.com/"
+      }
+    ],
+    "notes": "官方商城导航/公开目录接口列示；本轮未完成逐型号参数与库存核验。"
+  },
+  {
+    "brand": "华硕 ROG",
+    "model": "ROG 游戏手机 9",
+    "year": 2024,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "163.8×77×8.9 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2400,
+        "diagonal": 6.78,
+        "ppi": 388.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网产品规格",
+        "url": "https://rog.asus.com.cn/phones/rog-phone-9/spec/"
+      }
+    ],
+    "notes": "中国官网列示且提供购买渠道；实时库存未验证。"
+  },
+  {
+    "brand": "华硕 ROG",
+    "model": "ROG 游戏手机 9 Pro",
+    "year": 2024,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "163.8×77×8.9 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2400,
+        "diagonal": 6.78,
+        "ppi": 388.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网产品规格",
+        "url": "https://rog.asus.com.cn/phones/rog-phone-9-pro/spec/"
+      }
+    ],
+    "notes": "中国官网列示且提供购买渠道；实时库存未验证。"
+  },
+  {
+    "brand": "驰为",
+    "model": "Hi10 Max（Ultra 5 125U）",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "286.5×208.5×9.65 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1920,
+        "hpx": 2880,
+        "diagonal": 12.96,
+        "ppi": 267.1,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网产品规格",
+        "url": "https://www.chuwi.com/cn/product/items/chuwi-hi10-max/specs.html"
+      }
+    ],
+    "notes": "中国大陆官网列示，并链接京东/天猫渠道；Windows 11 二合一平板，Android dp 不适用，逻辑尺寸取决于 Windows 显示缩放。"
+  },
+  {
+    "brand": "联想",
+    "model": "拯救者手机 Y70 新一代",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": null,
+        "hpx": null,
+        "diagonal": 6.82,
+        "ppi": null,
+        "ppiKind": "未公开",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网商城参数",
+        "url": "https://item.lenovo.com.cn/product/1054682.html"
+      }
+    ],
+    "notes": "联想中国官网当前导航列示；官方商城静态参数未列确切分辨率，第三方资料相互矛盾，分辨率留空。"
+  },
+  {
+    "brand": "努比亚",
+    "model": "努比亚 NaviX Ultra",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "162.11×75.69×7.62 mm",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2800,
+        "diagonal": 6.78,
+        "ppi": 452.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网商城参数",
+        "url": "https://www.ztemall.com/cn/goodsdetail/1608"
+      }
+    ],
+    "notes": "官方商城列示2026年9月上市；同页标475PPI但与6.78英寸/1260×2800计算约452.9PPI冲突，本表保留计算值并提示差异；库存未核实。"
+  }
+]

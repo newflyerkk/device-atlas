@@ -1,0 +1,1020 @@
+[
+  {
+    "brand": "小米",
+    "model": "Xiaomi 18 Pro",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "151.8×72×8.46–8.56",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1120,
+        "hpx": 2436,
+        "diagonal": 6.4,
+        "ppi": 418.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "背屏",
+        "wpx": 912,
+        "hpx": 596,
+        "diagonal": 2.7,
+        "ppi": 403.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi 18 Pro 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-18-pro/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-18-pro/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi 18 Pro Max",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "163.39×77.6×8.39–8.47",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1208,
+        "hpx": 2624,
+        "diagonal": 6.9,
+        "ppi": 418.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "背屏",
+        "wpx": 976,
+        "hpx": 596,
+        "diagonal": 2.9,
+        "ppi": 394.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi 18 Pro Max 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-18-pro-max/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-18-pro-max/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi 17T Pro",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "162.28×77.51×8.25",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1280,
+        "hpx": 2772,
+        "diagonal": 6.83,
+        "ppi": 447.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi 17T Pro 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-17t-pro/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-17t-pro/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi 17T",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "157.63×75.19×8.17",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1268,
+        "hpx": 2756,
+        "diagonal": 6.59,
+        "ppi": 460.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi 17T 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-17t/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-17t/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi 17 Max",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "162.9×77.6×8.15–8.20",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1200,
+        "hpx": 2608,
+        "diagonal": 6.9,
+        "ppi": 416.1,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi 17 Max 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-17-max/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-17-max/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI K100 Pro Max",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "163.49×77.94×8.45",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1200,
+        "hpx": 2608,
+        "diagonal": 6.9,
+        "ppi": 416.1,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI K100 Pro Max 官方参数",
+        "url": "https://www.mi.com/prod/redmi-k100-pro-max/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-k100-pro-max/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI K100 Pro",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "157.49×75.25×8.55",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1156,
+        "hpx": 2510,
+        "diagonal": 6.59,
+        "ppi": 419.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI K100 Pro 官方参数",
+        "url": "https://www.mi.com/prod/redmi-k100-pro/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-k100-pro/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI 17 5G",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "171.56×79.47×8.15",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 720,
+        "hpx": 1600,
+        "diagonal": 6.9,
+        "ppi": 254.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI 17 5G 官方参数",
+        "url": "https://www.mi.com/prod/redmi-17-5g/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-17-5g/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI Note 17 Pro",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "163.45×78.27×8.46",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1280,
+        "hpx": 2772,
+        "diagonal": 6.83,
+        "ppi": 447.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI Note 17 Pro 官方参数",
+        "url": "https://www.mi.com/prod/redmi-note-17-pro/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-note-17-pro/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI Note 17 Pro 焕新版",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "163.45×78.27×8.46",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1280,
+        "hpx": 2772,
+        "diagonal": 6.83,
+        "ppi": 447.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI Note 17 Pro 焕新版 官方参数",
+        "url": "https://www.mi.com/prod/redmi-note-17-pro-new/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-note-17-pro-new/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI Note 17",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "169.7×79.14×8.26",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2396,
+        "diagonal": 7,
+        "ppi": 375.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI Note 17 官方参数",
+        "url": "https://www.mi.com/prod/redmi-note-17/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-note-17/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。部分手机分辨率按官方“超级像素”口径记录；PPI由该分辨率和标称对角线计算，非面板实测。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi 18 Fold",
+    "year": 2026,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "body": null,
+    "bodyFold": "117.8×83.6×10.68",
+    "bodyOpen": "117.8×163.8×5.02",
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 2364,
+        "hpx": 1672,
+        "diagonal": 7.58,
+        "ppi": 382.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1168,
+        "hpx": 1712,
+        "diagonal": 5.38,
+        "ppi": 385.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi 18 Fold 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-18-fold/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-18-fold/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率按官方超级像素口径；内屏以横向展开方向列示。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi Pad 9 Pro",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "279.14×191.96×5.8–5.85",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2136,
+        "hpx": 3200,
+        "diagonal": 12.5,
+        "ppi": 308,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi Pad 9 Pro 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-pad-9-pro/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-pad-9-pro/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi Pad 9",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "251.2×173.42×5.75–5.8",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2136,
+        "hpx": 3200,
+        "diagonal": 11.2,
+        "ppi": 345,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi Pad 9 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-pad-9/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-pad-9/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi Pad 9 Pro Max",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "296.2×203.08×5.67",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2272,
+        "hpx": 3408,
+        "diagonal": 13.3,
+        "ppi": 308,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi Pad 9 Pro Max 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-pad-9-pro-max/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-pad-9-pro-max/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI K Pad 2",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "204.98×133.73×6.62",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1880,
+        "hpx": 3008,
+        "diagonal": 8.8,
+        "ppi": 403,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI K Pad 2 官方参数",
+        "url": "https://www.mi.com/prod/redmi-kpad2/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-kpad2/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI Pad 2 SE",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "226.51×147.97×7.4",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1280,
+        "hpx": 2048,
+        "diagonal": 9.7,
+        "ppi": 250,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI Pad 2 SE 官方参数",
+        "url": "https://www.mi.com/prod/redmi-pad-2-se/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-pad-2-se/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI Pad 2 Pro",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "279.79×181.65×7.5",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1600,
+        "hpx": 2560,
+        "diagonal": 12.1,
+        "ppi": 249,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI Pad 2 Pro 官方参数",
+        "url": "https://www.mi.com/prod/redmi-pad-2-pro/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-pad-2-pro/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi Pad 8 Pro",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "251.22×173.42×5.75–5.8",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2136,
+        "hpx": 3200,
+        "diagonal": 11.2,
+        "ppi": 345,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi Pad 8 Pro 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-pad-8-pro/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-pad-8-pro/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi Pad 8",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "251.22×173.42×5.75–5.8",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2136,
+        "hpx": 3200,
+        "diagonal": 11.2,
+        "ppi": 345,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi Pad 8 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-pad-8/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-pad-8/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI Pad 2",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "254.58×166.06×7.36",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1600,
+        "hpx": 2560,
+        "diagonal": 11,
+        "ppi": 274,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI Pad 2 官方参数",
+        "url": "https://www.mi.com/prod/redmi-pad-2/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-pad-2/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "REDMI",
+    "model": "REDMI K Pad",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "205.13×132.03×6.46",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1880,
+        "hpx": 3008,
+        "diagonal": 8.8,
+        "ppi": 403,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "REDMI K Pad 官方参数",
+        "url": "https://www.mi.com/prod/redmi-kpad/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/redmi-kpad/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi Pad 7S Pro",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "279.14×191.96×5.8–5.85",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2136,
+        "hpx": 3200,
+        "diagonal": 12.5,
+        "ppi": 308,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi Pad 7S Pro 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-pad-7s-pro/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-pad-7s-pro/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi Pad 7 Ultra",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "305.82×207.47×5.1",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2136,
+        "hpx": 3200,
+        "diagonal": 14,
+        "ppi": 275,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi Pad 7 Ultra 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-pad-7-ultra/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-pad-7-ultra/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi Pad 7 Pro",
+    "year": 2024,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "251.22×173.42×6.18",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2136,
+        "hpx": 3200,
+        "diagonal": 11.2,
+        "ppi": 345,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi Pad 7 Pro 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-pad-7-pro/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-pad-7-pro/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  },
+  {
+    "brand": "小米",
+    "model": "Xiaomi Pad 7",
+    "year": 2024,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "body": "251.22×173.42×6.18",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2136,
+        "hpx": 3200,
+        "diagonal": 11.2,
+        "ppi": 345,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "小米中国商城当前导航目录",
+        "url": "https://www.mi.com/shop"
+      },
+      {
+        "title": "Xiaomi Pad 7 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-pad-7/specs"
+      },
+      {
+        "title": "官方参数静态页面（模块脚本包含规格文本）",
+        "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-pad-7/specs/index.html"
+      }
+    ],
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率和机身尺寸统一按竖屏方向列示；厚度范围反映普通/柔光等版本。"
+  }
+]

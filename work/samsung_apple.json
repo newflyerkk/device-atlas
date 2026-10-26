@@ -1,0 +1,1892 @@
+[
+  {
+    "brand": "三星",
+    "model": "Galaxy Fold",
+    "year": 2019,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "160.9×62.8×15.7–17.1",
+    "bodyOpen": "160.9×117.9×6.9–7.6",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1536,
+        "hpx": 2152,
+        "diagonal": 7.3,
+        "ppi": 362.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 720,
+        "hpx": 1680,
+        "diagonal": 4.6,
+        "ppi": 397.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Fold 官方规格",
+        "url": "https://www.samsungmobilepress.com/media-assets/galaxy_fold/?tab=specs"
+      }
+    ],
+    "notes": "PPI由直角对角线计算；Fold8内屏保持横向展开方向。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Fold2 5G",
+    "year": 2020,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "159.2×68.0×13.8–16.8",
+    "bodyOpen": "159.2×128.2×6.0–6.9",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1768,
+        "hpx": 2208,
+        "diagonal": 7.6,
+        "ppi": 372.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 816,
+        "hpx": 2260,
+        "diagonal": 6.2,
+        "ppi": 387.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Fold2 5G 官方规格",
+        "url": "https://news.samsung.com/us/galaxy-z-fold2-change-shape-of-future-unpacked2/"
+      }
+    ],
+    "notes": "PPI由直角对角线计算；Fold8内屏保持横向展开方向。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Fold3 5G",
+    "year": 2021,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "158.2×67.1×14.4–16.0",
+    "bodyOpen": "158.2×128.1×6.4",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1768,
+        "hpx": 2208,
+        "diagonal": 7.6,
+        "ppi": 372.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 832,
+        "hpx": 2268,
+        "diagonal": 6.2,
+        "ppi": 389.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Fold3 5G 官方规格",
+        "url": "https://news.samsung.com/us/galaxy-z-fold3-5g-galaxy-z-flip3-5g-unpacked-2021-next-mobile-innovation/"
+      }
+    ],
+    "notes": "PPI由直角对角线计算；Fold8内屏保持横向展开方向。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Fold4",
+    "year": 2022,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "155.1×67.1×14.2–15.8",
+    "bodyOpen": "155.1×130.1×6.3",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1812,
+        "hpx": 2176,
+        "diagonal": 7.6,
+        "ppi": 372.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 904,
+        "hpx": 2316,
+        "diagonal": 6.2,
+        "ppi": 401.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Fold4 官方规格",
+        "url": "https://www.samsung.com/es/smartphones/galaxy-z/galaxy-z-fold4-phantom-black-256gb-sm-f936bzkbeub/"
+      }
+    ],
+    "notes": "PPI由直角对角线计算；Fold8内屏保持横向展开方向。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Fold5",
+    "year": 2023,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "154.9×67.1×13.4",
+    "bodyOpen": "154.9×129.9×6.1",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1812,
+        "hpx": 2176,
+        "diagonal": 7.6,
+        "ppi": 372.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 904,
+        "hpx": 2316,
+        "diagonal": 6.2,
+        "ppi": 401.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Fold5 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z/galaxy-z-fold5-cream-1tb-sm-f9460zehchc/"
+      }
+    ],
+    "notes": "PPI由直角对角线计算；Fold8内屏保持横向展开方向。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Fold6",
+    "year": 2024,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "153.5×68.1×12.1",
+    "bodyOpen": "153.5×132.6×5.6",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1856,
+        "hpx": 2160,
+        "diagonal": 7.6,
+        "ppi": 374.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 968,
+        "hpx": 2376,
+        "diagonal": 6.3,
+        "ppi": 407.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Fold6 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-fold6/"
+      }
+    ],
+    "notes": "PPI由直角对角线计算；Fold8内屏保持横向展开方向。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Fold7",
+    "year": 2025,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "bodyFold": "158.4×72.8×8.9",
+    "bodyOpen": "158.4×143.2×4.2",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1968,
+        "hpx": 2184,
+        "diagonal": 8.0,
+        "ppi": 367.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.5,
+        "ppi": 421.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Fold7 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-fold7/specs/"
+      }
+    ],
+    "notes": "PPI由直角对角线计算；Fold8内屏保持横向展开方向。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Fold8",
+    "year": 2026,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "bodyFold": "123.9×81.9×9.7",
+    "bodyOpen": "123.9×161.4×4.5",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 2448,
+        "hpx": 1848,
+        "diagonal": 7.6,
+        "ppi": 403.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1248,
+        "hpx": 1972,
+        "diagonal": 5.5,
+        "ppi": 424.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Fold8 官方规格",
+        "url": "https://www.samsung.com.cn/business/smartphones/galaxy-z/galaxy-z-fold8-sm-f9710zwdchc/"
+      }
+    ],
+    "notes": "PPI由直角对角线计算；Fold8内屏保持横向展开方向。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Fold8 Ultra",
+    "year": 2026,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "bodyFold": "158.4×72.8×8.9",
+    "bodyOpen": "158.4×143.2×4.1",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 2256,
+        "hpx": 2504,
+        "diagonal": 8.0,
+        "ppi": 421.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.5,
+        "ppi": 421.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Fold8 Ultra 官方规格",
+        "url": "https://www.samsung.com/jp/business/smartphones/galaxy-z/galaxy-z-fold8-ultra-violet-shadow-256gb-sm-f976qzvasjp/"
+      }
+    ],
+    "notes": "PPI由直角对角线计算；Fold8内屏保持横向展开方向。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Flip",
+    "year": 2020,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "bodyFold": "87.4×73.6×15.4–17.3",
+    "bodyOpen": "167.3×73.6×7.2",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2636,
+        "diagonal": 6.7,
+        "ppi": 425.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 300,
+        "hpx": 112,
+        "diagonal": 1.1,
+        "ppi": 291.1,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Flip 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip/"
+      }
+    ],
+    "notes": "外屏为包围矩形；异形切口不扣除。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Flip 5G",
+    "year": 2020,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "bodyFold": "87.4×73.6×15.4–17.3",
+    "bodyOpen": "167.3×73.6×7.2",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2636,
+        "diagonal": 6.7,
+        "ppi": 425.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 300,
+        "hpx": 112,
+        "diagonal": 1.1,
+        "ppi": 291.1,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Flip 5G 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip/"
+      }
+    ],
+    "notes": "外屏为包围矩形；异形切口不扣除。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Flip3 5G",
+    "year": 2021,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "bodyFold": "86.4×72.2×15.9–17.1",
+    "bodyOpen": "166.0×72.2×6.9",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2640,
+        "diagonal": 6.7,
+        "ppi": 425.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 512,
+        "hpx": 260,
+        "diagonal": 1.9,
+        "ppi": 302.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Flip3 5G 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip3/"
+      }
+    ],
+    "notes": "外屏为包围矩形；异形切口不扣除。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Flip4",
+    "year": 2022,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "bodyFold": "84.9×71.9×15.9–17.1",
+    "bodyOpen": "165.2×71.9×6.9",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2640,
+        "diagonal": 6.7,
+        "ppi": 425.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 512,
+        "hpx": 260,
+        "diagonal": 1.9,
+        "ppi": 302.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Flip4 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip4/"
+      }
+    ],
+    "notes": "外屏为包围矩形；异形切口不扣除。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Flip5",
+    "year": 2023,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "bodyFold": "85.1×71.9×15.1",
+    "bodyOpen": "165.1×71.9×6.9",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2640,
+        "diagonal": 6.7,
+        "ppi": 425.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 720,
+        "hpx": 748,
+        "diagonal": 3.4,
+        "ppi": 305.4,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Flip5 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip5/"
+      }
+    ],
+    "notes": "外屏为包围矩形；异形切口不扣除。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Flip6",
+    "year": 2024,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "bodyFold": "85.1×71.9×14.9",
+    "bodyOpen": "165.1×71.9×6.9",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2640,
+        "diagonal": 6.7,
+        "ppi": 425.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 720,
+        "hpx": 748,
+        "diagonal": 3.4,
+        "ppi": 305.4,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Flip6 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip6/"
+      }
+    ],
+    "notes": "外屏为包围矩形；异形切口不扣除。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Flip7",
+    "year": 2025,
+    "type": "手机",
+    "form": "竖折",
+    "market": "当前官网列售",
+    "bodyFold": "85.5×75.2×13.7",
+    "bodyOpen": "166.7×75.2×6.5",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.9,
+        "ppi": 397.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 948,
+        "hpx": 1048,
+        "diagonal": 4.1,
+        "ppi": 344.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Flip7 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip7/"
+      }
+    ],
+    "notes": "外屏为包围矩形；异形切口不扣除。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Flip7 FE",
+    "year": 2025,
+    "type": "手机",
+    "form": "竖折",
+    "market": "当前官网列售",
+    "bodyFold": "85.1×71.9×14.9",
+    "bodyOpen": "165.1×71.9×6.9",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2640,
+        "diagonal": 6.7,
+        "ppi": 425.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 720,
+        "hpx": 748,
+        "diagonal": 3.4,
+        "ppi": 305.4,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Flip7 FE 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip7-fe/"
+      }
+    ],
+    "notes": "外屏为包围矩形；异形切口不扣除。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z Flip8",
+    "year": 2026,
+    "type": "手机",
+    "form": "竖折",
+    "market": "当前官网列售",
+    "bodyFold": "85.7×75.4×13.1",
+    "bodyOpen": "166.9×75.4×6.1",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.9,
+        "ppi": 397.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 948,
+        "hpx": 1048,
+        "diagonal": 4.1,
+        "ppi": 344.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z Flip8 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z-flip8/"
+      }
+    ],
+    "notes": "外屏为包围矩形；异形切口不扣除。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Z TriFold",
+    "year": 2025,
+    "type": "手机",
+    "form": "三折",
+    "market": "当前官网列售",
+    "bodyFold": "159.2×75.0×12.9",
+    "bodyOpen": "159.2×214.1×3.9–4.2",
+    "body": null,
+    "screens": [
+      {
+        "name": "完全展开内屏",
+        "wpx": 2160,
+        "hpx": 1584,
+        "diagonal": 10,
+        "ppi": 267.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.5,
+        "ppi": 421.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Z TriFold 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-z/galaxy-z-trifold-crafted-black-1tb-sm-f9680zkgchc/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "三星",
+    "model": "W20 5G",
+    "year": 2019,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1536,
+        "hpx": 2152,
+        "diagonal": 7.3,
+        "ppi": 362.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 720,
+        "hpx": 1680,
+        "diagonal": 4.6,
+        "ppi": 397.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "W20 5G 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/samsung-w20/"
+      }
+    ],
+    "notes": "中国大陆心系天下系列；早期机身尺寸未完成独立核验，保留空值。"
+  },
+  {
+    "brand": "三星",
+    "model": "W21 5G",
+    "year": 2020,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1768,
+        "hpx": 2208,
+        "diagonal": 7.6,
+        "ppi": 372.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 816,
+        "hpx": 2260,
+        "diagonal": 6.2,
+        "ppi": 387.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "W21 5G 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/samsung-w21/"
+      }
+    ],
+    "notes": "中国大陆心系天下系列；早期机身尺寸未完成独立核验，保留空值。"
+  },
+  {
+    "brand": "三星",
+    "model": "W22 5G",
+    "year": 2021,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1768,
+        "hpx": 2208,
+        "diagonal": 7.6,
+        "ppi": 372.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 832,
+        "hpx": 2268,
+        "diagonal": 6.2,
+        "ppi": 389.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "W22 5G 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/samsung-w22/"
+      }
+    ],
+    "notes": "中国大陆心系天下系列；早期机身尺寸未完成独立核验，保留空值。"
+  },
+  {
+    "brand": "三星",
+    "model": "W23",
+    "year": 2022,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1812,
+        "hpx": 2176,
+        "diagonal": 7.6,
+        "ppi": 372.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 904,
+        "hpx": 2316,
+        "diagonal": 6.2,
+        "ppi": 401.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "W23 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/samsung-w23/"
+      }
+    ],
+    "notes": "中国大陆心系天下系列；早期机身尺寸未完成独立核验，保留空值。"
+  },
+  {
+    "brand": "三星",
+    "model": "W24",
+    "year": 2023,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "bodyFold": "154.9×67.1×13.4",
+    "bodyOpen": "154.9×129.9×6.1",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1812,
+        "hpx": 2176,
+        "diagonal": 7.6,
+        "ppi": 372.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 904,
+        "hpx": 2316,
+        "diagonal": 6.2,
+        "ppi": 401.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "W24 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/samsung-w24/"
+      }
+    ],
+    "notes": "中国大陆心系天下系列；早期机身尺寸未完成独立核验，保留空值。"
+  },
+  {
+    "brand": "三星",
+    "model": "W25",
+    "year": 2024,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "bodyFold": "157.9×72.8×10.6",
+    "bodyOpen": "157.9×142.6×4.9",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1968,
+        "hpx": 2184,
+        "diagonal": 8.0,
+        "ppi": 367.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.5,
+        "ppi": 421.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "W25 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/samsung-w25/"
+      }
+    ],
+    "notes": "中国大陆心系天下系列；早期机身尺寸未完成独立核验，保留空值。"
+  },
+  {
+    "brand": "三星",
+    "model": "W26",
+    "year": 2025,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "bodyFold": "158.4×72.8×8.9",
+    "bodyOpen": "158.4×143.2×4.2",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1968,
+        "hpx": 2184,
+        "diagonal": 8.0,
+        "ppi": 367.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.5,
+        "ppi": 421.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "W26 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/samsung-w26/"
+      }
+    ],
+    "notes": "中国大陆心系天下系列；早期机身尺寸未完成独立核验，保留空值。"
+  },
+  {
+    "brand": "三星",
+    "model": "W23 Flip",
+    "year": 2022,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "bodyFold": "84.9×71.9×15.9–17.1",
+    "bodyOpen": "165.2×71.9×6.9",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2640,
+        "diagonal": 6.7,
+        "ppi": 425.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 512,
+        "hpx": 260,
+        "diagonal": 1.9,
+        "ppi": 302.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "W23 Flip 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/samsung-w25-flip/compare/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "三星",
+    "model": "W24 Flip",
+    "year": 2023,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "bodyFold": "85.1×71.9×15.1",
+    "bodyOpen": "165.1×71.9×6.9",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2640,
+        "diagonal": 6.7,
+        "ppi": 425.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 720,
+        "hpx": 748,
+        "diagonal": 3.4,
+        "ppi": 305.4,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "W24 Flip 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/samsung-w25-flip/compare/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "三星",
+    "model": "W25 Flip",
+    "year": 2024,
+    "type": "手机",
+    "form": "竖折",
+    "market": "当前官网列售",
+    "bodyFold": "85.1×71.9×14.9",
+    "bodyOpen": "165.1×71.9×6.9",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1080,
+        "hpx": 2640,
+        "diagonal": 6.7,
+        "ppi": 425.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 720,
+        "hpx": 748,
+        "diagonal": 3.4,
+        "ppi": 305.4,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "W25 Flip 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/samsung-w25-flip/compare/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "苹果",
+    "model": "iPhone 18 Pro",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "150.0×71.9×8.75",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1206,
+        "hpx": 2622,
+        "diagonal": 6.27,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPhone 18 Pro 官方规格",
+        "url": "https://www.apple.com.cn/iphone-18-pro/specs/"
+      }
+    ],
+    "notes": "逻辑尺寸需默认显示模式验证；不将像素除以3直接视作已核实pt。"
+  },
+  {
+    "brand": "苹果",
+    "model": "iPhone 18 Pro Max",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "163.4×78.0×8.75",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1320,
+        "hpx": 2868,
+        "diagonal": 6.86,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPhone 18 Pro Max 官方规格",
+        "url": "https://www.apple.com.cn/iphone-18-pro/specs/"
+      }
+    ],
+    "notes": "逻辑尺寸需默认显示模式验证；不将像素除以3直接视作已核实pt。"
+  },
+  {
+    "brand": "苹果",
+    "model": "iPhone Air",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "156.2×74.7×5.64",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1260,
+        "hpx": 2736,
+        "diagonal": 6.55,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPhone Air 官方规格",
+        "url": "https://www.apple.com.cn/iphone-air/specs/"
+      }
+    ],
+    "notes": "逻辑尺寸需默认显示模式验证；不将像素除以3直接视作已核实pt。"
+  },
+  {
+    "brand": "苹果",
+    "model": "iPhone 17",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "149.6×71.5×7.95",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1206,
+        "hpx": 2622,
+        "diagonal": 6.27,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPhone 17 官方规格",
+        "url": "https://www.apple.com.cn/iphone-17/specs/"
+      }
+    ],
+    "notes": "逻辑尺寸需默认显示模式验证；不将像素除以3直接视作已核实pt。"
+  },
+  {
+    "brand": "苹果",
+    "model": "iPhone 17e",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "146.7×71.5×7.80",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1170,
+        "hpx": 2532,
+        "diagonal": 6.06,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPhone 17e 官方规格",
+        "url": "https://www.apple.com.cn/iphone-17e/specs/"
+      }
+    ],
+    "notes": "逻辑尺寸需默认显示模式验证；不将像素除以3直接视作已核实pt。"
+  },
+  {
+    "brand": "苹果",
+    "model": "iPhone 16",
+    "year": 2024,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "147.6×71.6×7.80",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1179,
+        "hpx": 2556,
+        "diagonal": 6.12,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPhone 16 官方规格",
+        "url": "https://www.apple.com.cn/iphone-16/specs/"
+      }
+    ],
+    "notes": "逻辑尺寸需默认显示模式验证；不将像素除以3直接视作已核实pt。"
+  },
+  {
+    "brand": "苹果",
+    "model": "iPhone Duo",
+    "year": 2026,
+    "type": "手机",
+    "form": "横折",
+    "market": "当前官网列售",
+    "bodyFold": "117.8×84.1×11.3",
+    "bodyOpen": "117.8×164.6×5.2",
+    "body": null,
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 2670,
+        "hpx": 1878,
+        "diagonal": 7.58,
+        "ppi": 430,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1398,
+        "hpx": 2034,
+        "diagonal": 5.36,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPhone Duo 官方规格",
+        "url": "https://www.apple.com.cn/iphone-duo/specs/"
+      }
+    ],
+    "notes": "中国官网已列购买；内屏横向展开。"
+  },
+  {
+    "brand": "苹果",
+    "model": "iPad Pro 11英寸 (M5)",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "249.7×177.5×5.3",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1668,
+        "hpx": 2420,
+        "diagonal": 11,
+        "ppi": 264,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPad Pro 11英寸 (M5) 官方规格",
+        "url": "https://www.apple.com.cn/ipad-pro/specs/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "苹果",
+    "model": "iPad Pro 13英寸 (M5)",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "281.6×215.5×5.1",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2064,
+        "hpx": 2752,
+        "diagonal": 13,
+        "ppi": 264,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPad Pro 13英寸 (M5) 官方规格",
+        "url": "https://www.apple.com.cn/ipad-pro/specs/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "苹果",
+    "model": "iPad Air 11英寸 (M4)",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "247.6×178.5×6.1",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1640,
+        "hpx": 2360,
+        "diagonal": 10.86,
+        "ppi": 264,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPad Air 11英寸 (M4) 官方规格",
+        "url": "https://www.apple.com.cn/ipad-air/specs/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "苹果",
+    "model": "iPad Air 13英寸 (M4)",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "280.6×214.9×6.1",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 2048,
+        "hpx": 2732,
+        "diagonal": 12.9,
+        "ppi": 264,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPad Air 13英寸 (M4) 官方规格",
+        "url": "https://www.apple.com.cn/ipad-air/specs/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "苹果",
+    "model": "iPad (A16)",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "248.6×179.5×7.0",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1640,
+        "hpx": 2360,
+        "diagonal": 10.86,
+        "ppi": 264,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPad (A16) 官方规格",
+        "url": "https://www.apple.com.cn/ipad-11/specs/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "苹果",
+    "model": "iPad mini (A17 Pro)",
+    "year": 2024,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "195.4×134.8×6.3",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1488,
+        "hpx": 2266,
+        "diagonal": 8.3,
+        "ppi": 326,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "iPad mini (A17 Pro) 官方规格",
+        "url": "https://www.apple.com.cn/ipad-mini/specs/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy S26",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "149.6×71.7×7.2",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2340,
+        "diagonal": 6.3,
+        "ppi": 409.1,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy S26 官方规格",
+        "url": "https://www.samsung.com/ie/support/mobile-devices/what-are-the-differences-between-the-galaxy-s26-ultra-s26-plus-and-s26/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy S26+",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "158.4×75.8×7.3",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3120,
+        "diagonal": 6.7,
+        "ppi": 512.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy S26+ 官方规格",
+        "url": "https://www.samsung.com/ie/support/mobile-devices/what-are-the-differences-between-the-galaxy-s26-ultra-s26-plus-and-s26/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy S26 Ultra",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "163.6×78.1×7.9",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3120,
+        "diagonal": 6.9,
+        "ppi": 498.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy S26 Ultra 官方规格",
+        "url": "https://www.samsung.com/ie/support/mobile-devices/what-are-the-differences-between-the-galaxy-s26-ultra-s26-plus-and-s26/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy A57 5G",
+    "year": 2026,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "161.5×76.8×6.9",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2340,
+        "diagonal": 6.7,
+        "ppi": 384.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy A57 5G 官方规格",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-a/galaxy-a57-5g-awesome-lilac-256gb-sm-a5760zvbchc/"
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Tab S12+",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "289.5×187.8×5.3",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1752,
+        "hpx": 2800,
+        "diagonal": 12.6,
+        "ppi": 262.1,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Tab S12+ 官方规格",
+        "url": "https://www.samsungmobilepress.com/articles/galaxy-tab-s12-series-ultimate-productivity-growth"
+      }
+    ],
+    "notes": "分辨率按竖屏方向列示；Tab S12系列中国官网为预约购买状态。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Tab S12 Ultra",
+    "year": 2026,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "326.3×208.5×5.1",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1848,
+        "hpx": 2960,
+        "diagonal": 14.6,
+        "ppi": 239.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Tab S12 Ultra 官方规格",
+        "url": "https://www.samsungmobilepress.com/articles/galaxy-tab-s12-series-ultimate-productivity-growth"
+      }
+    ],
+    "notes": "分辨率按竖屏方向列示；Tab S12系列中国官网为预约购买状态。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Tab S11",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "253.8×165.3×5.5",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1600,
+        "hpx": 2560,
+        "diagonal": 11,
+        "ppi": 274.4,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Tab S11 官方规格",
+        "url": "https://www.samsung.com.cn/tablets/galaxy-tab-s11/"
+      }
+    ],
+    "notes": "分辨率按竖屏方向列示；Tab S12系列中国官网为预约购买状态。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Tab S11 Ultra",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "326.3×208.5×5.1",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1848,
+        "hpx": 2960,
+        "diagonal": 14.6,
+        "ppi": 239.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Tab S11 Ultra 官方规格",
+        "url": "https://www.samsung.com.cn/tablets/galaxy-tab-s11/"
+      }
+    ],
+    "notes": "分辨率按竖屏方向列示；Tab S12系列中国官网为预约购买状态。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Tab S10 FE",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "254.3×165.8×6.0",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 2304,
+        "diagonal": 10.9,
+        "ppi": 249.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Tab S10 FE 官方规格",
+        "url": "https://images.samsung.com/is/content/samsung/assets/global/ir/docs/2025_Half_Interim_Report.pdf"
+      }
+    ],
+    "notes": "分辨率按竖屏方向列示；Tab S12系列中国官网为预约购买状态。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Tab S10 FE+",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "300.6×194.7×6.0",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1800,
+        "hpx": 2880,
+        "diagonal": 13.1,
+        "ppi": 259.3,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Tab S10 FE+ 官方规格",
+        "url": "https://www.samsung.com.cn/business/tablets/galaxy-tab-s/galaxy-tab-s10-fe-plus-gray-256gb-sm-x626czagchc/"
+      }
+    ],
+    "notes": "分辨率按竖屏方向列示；Tab S12系列中国官网为预约购买状态。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy Tab A11+",
+    "year": 2025,
+    "type": "平板",
+    "form": "平板",
+    "market": "当前官网列售",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "body": "257.1×168.7×6.9",
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1200,
+        "hpx": 1920,
+        "diagonal": 11,
+        "ppi": 205.8,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "Galaxy Tab A11+ 官方规格",
+        "url": "https://www.samsung.com.cn/business/tablets/galaxy-tab-a/galaxy-tab-a11-plus-gray-sm-x230nzavchn/"
+      }
+    ],
+    "notes": "分辨率按竖屏方向列示；Tab S12系列中国官网为预约购买状态。"
+  }
+]

@@ -1,0 +1,1211 @@
+[
+  {
+    "brand": "荣耀",
+    "model": "Magic V",
+    "releaseDate": "2022-01-18",
+    "releaseMonth": null,
+    "announcementDate": "2022-01-10",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v-first-foldable-flagship/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic Vs",
+    "releaseDate": "2022-11-30",
+    "releaseMonth": null,
+    "announcementDate": "2022-11-23",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/magic-vs-os/"
+    },
+    "releaseNote": "官方按Magic Vs系列公布正式开售日；至臻配置首销是否同日仍建议结合具体SKU核对。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic Vs 至臻版",
+    "releaseDate": "2022-11-30",
+    "releaseMonth": null,
+    "announcementDate": "2022-11-23",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/magic-vs-os/"
+    },
+    "releaseNote": "官方按Magic Vs系列公布正式开售日；至臻配置首销是否同日仍建议结合具体SKU核对。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic V2",
+    "releaseDate": "2023-07-20",
+    "releaseMonth": null,
+    "announcementDate": "2023-07-12",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magicv2-china-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic V2 至臻版",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2023-07-12",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magicv2-china-launch/"
+    },
+    "releaseNote": "官方发布稿列系列7月20日开售，但社区历史记载至臻版7月25日，缺独立官方SKU确认，因此不沿用系列首销日。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic Vs2",
+    "releaseDate": "2023-10-17",
+    "releaseMonth": null,
+    "announcementDate": "2023-10-12",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magicvs2-chinalaunch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "V Purse",
+    "releaseDate": "2023-09-26",
+    "releaseMonth": null,
+    "announcementDate": "2023-09-19",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-vpurse-chinalaunch/"
+    },
+    "releaseNote": "官方明确9月26日10:08限量开售，限量首销也计为首次正式开售，非9月19日预售。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic V2 RSR 保时捷设计",
+    "releaseDate": "2024-01-12",
+    "releaseMonth": null,
+    "announcementDate": "2024-01-11",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v2-rsr-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic V3",
+    "releaseDate": "2024-07-19",
+    "releaseMonth": null,
+    "announcementDate": "2024-07-12",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v3-series-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic Vs3",
+    "releaseDate": "2024-07-19",
+    "releaseMonth": null,
+    "announcementDate": "2024-07-12",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v3-series-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic V5",
+    "releaseDate": "2025-07-04",
+    "releaseMonth": null,
+    "announcementDate": "2025-07-02",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v5-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic V6",
+    "releaseDate": "2026-03-13",
+    "releaseMonth": null,
+    "announcementDate": "2026-03-10",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v6-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic V Flip",
+    "releaseDate": "2024-06-21",
+    "releaseMonth": null,
+    "announcementDate": "2024-06-13",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v-flip-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic V Flip 高定款",
+    "releaseDate": "2024-06-21",
+    "releaseMonth": null,
+    "announcementDate": "2024-06-13",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v-flip-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic V Flip2",
+    "releaseDate": "2025-08-28",
+    "releaseMonth": null,
+    "announcementDate": "2025-08-21",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v-flip-launch-china/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic V Flip2 高定款",
+    "releaseDate": "2025-08-28",
+    "releaseMonth": null,
+    "announcementDate": "2025-08-21",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v-flip-launch-china/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X6",
+    "releaseDate": "2024-12-06",
+    "releaseMonth": null,
+    "announcementDate": "2024-11-26",
+    "releaseSource": {
+      "title": "中新经纬转引华为终端官方微博及商城",
+      "url": "https://stcn.com/article/detail/1441813.html"
+    },
+    "releaseNote": "中新经纬原始记者报道转引华为终端官微12月6日10:08首销，并列标准/典藏SKU；非当前厂商原公告。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X6 典藏版",
+    "releaseDate": "2024-12-06",
+    "releaseMonth": null,
+    "announcementDate": "2024-11-26",
+    "releaseSource": {
+      "title": "中新经纬转引华为终端官方微博及商城",
+      "url": "https://stcn.com/article/detail/1441813.html"
+    },
+    "releaseNote": "中新经纬原始记者报道转引华为终端官微12月6日10:08首销，并列标准/典藏SKU；非当前厂商原公告。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X7",
+    "releaseDate": "2025-12-05",
+    "releaseMonth": null,
+    "announcementDate": "2025-11-25",
+    "releaseSource": {
+      "title": "湖北日报网原始全渠道首销报道",
+      "url": "https://www.cnhubei.com/content/2025-12/05/content_19709678.html"
+    },
+    "releaseNote": "官方媒体原始通讯报道明确12月5日10:08全渠道发售并列标准/典藏SKU；非厂商页面。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X7 典藏版",
+    "releaseDate": "2025-12-05",
+    "releaseMonth": null,
+    "announcementDate": "2025-11-25",
+    "releaseSource": {
+      "title": "湖北日报网原始全渠道首销报道",
+      "url": "https://www.cnhubei.com/content/2025-12/05/content_19709678.html"
+    },
+    "releaseNote": "官方媒体原始通讯报道明确12月5日10:08全渠道发售并列标准/典藏SKU；非厂商页面。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate XT 非凡大师",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate XTs 非凡大师",
+    "releaseDate": "2025-09-12",
+    "releaseMonth": null,
+    "announcementDate": "2025-09-04",
+    "releaseSource": {
+      "title": "新华网原始开售报道",
+      "url": "https://www1.xinhuanet.com/tech/20250912/cf044061f2b04fdba1eba7d56ac3a28f/c.html"
+    },
+    "releaseNote": "新华网原始报道正文明确9月12日开售、9月4日发布预售，不将网页日期独立作为依据。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura X",
+    "releaseDate": "2025-03-30",
+    "releaseMonth": null,
+    "announcementDate": "2025-03-20",
+    "releaseSource": {
+      "title": "华为发布通稿转载",
+      "url": "https://www.eetrend.com/content/2025/100589764.html"
+    },
+    "releaseNote": "厂商发布通稿转载明确3月20日预售、3月30日10:08正式开售，并列标准及典藏SKU；原官网日期公告未找到。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura X 典藏版",
+    "releaseDate": "2025-03-30",
+    "releaseMonth": null,
+    "announcementDate": "2025-03-20",
+    "releaseSource": {
+      "title": "华为发布通稿转载",
+      "url": "https://www.eetrend.com/content/2025/100589764.html"
+    },
+    "releaseNote": "厂商发布通稿转载明确3月20日预售、3月30日10:08正式开售，并列标准及典藏SKU；原官网日期公告未找到。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura X Max",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2026-04-20",
+    "releaseSource": {
+      "title": "华为官方发布会",
+      "url": "https://consumer.huawei.com/cn/press/events/2026/huawei-pura-90-series-and-new-product-launch-event/"
+    },
+    "releaseNote": "官方发布会确认发布日；首次中国大陆正式开售日未核实，绝不以发布会日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura X Max 典藏版",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2026-04-20",
+    "releaseSource": {
+      "title": "华为官方发布会",
+      "url": "https://consumer.huawei.com/cn/press/events/2026/huawei-pura-90-series-and-new-product-launch-event/"
+    },
+    "releaseNote": "官方发布会确认发布日；首次中国大陆正式开售日未核实，绝不以发布会日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pocket 2 优享版",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate Xs 2",
+    "releaseDate": "2022-05-06",
+    "releaseMonth": null,
+    "announcementDate": "2022-04-28",
+    "releaseSource": {
+      "title": "IT之家原始发布会报道",
+      "url": "https://www.ithome.com/0/615/730.htm"
+    },
+    "releaseNote": "原始发布会报道明确5月6日10:08正式开售，4月28日仅预售。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate Xs 2 典藏版",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X",
+    "releaseDate": "2019-11-15",
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": {
+      "title": "新民晚报记者报道（中新网转载）",
+      "url": "https://www.chinanews.com/cj/2019/11-19/9011635.shtml"
+    },
+    "releaseNote": "原始记者报道明确11月15日与18日两次官网发售；非当前厂商原始公告，标媒体证据。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate Xs",
+    "releaseDate": "2020-03-05",
+    "releaseMonth": null,
+    "announcementDate": "2020-02-24",
+    "releaseSource": {
+      "title": "中国证券报原始首销报道",
+      "url": "https://epaper.cs.com.cn/zgzqb/images/2020-03/06/A06/ZQBB0020306C.pdf"
+    },
+    "releaseNote": "中国证券报原始报道明确3月5日首销；发布日由华为2020-02-24官方新闻确认。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X2",
+    "releaseDate": "2021-02-25",
+    "releaseMonth": null,
+    "announcementDate": "2021-02-22",
+    "releaseSource": {
+      "title": "澎湃新闻原始首销报道",
+      "url": "https://m.thepaper.cn/newsDetail_forward_11460142"
+    },
+    "releaseNote": "原始记者现场报道明确2月25日10:08正式开售；非厂商当前公告。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X2 4G",
+    "releaseDate": "2021-06-28",
+    "releaseMonth": null,
+    "announcementDate": "2021-06-02",
+    "releaseSource": {
+      "title": "IT之家转引华为终端官方微博开售公告",
+      "url": "https://www.ithome.com/0/559/702.htm"
+    },
+    "releaseNote": "原始报道明确转引@华为终端官方微博“今日10:08正式开售”；公告来源为官微，当前证据页为媒体转引。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X2 典藏版",
+    "releaseDate": "2021-11-18",
+    "releaseMonth": null,
+    "announcementDate": "2021-11-17",
+    "releaseSource": {
+      "title": "IT之家原始发布会报道",
+      "url": "https://www.ithome.com/0/587/348.htm"
+    },
+    "releaseNote": "原始发布会报道明确玻璃版11月18日10:08开售；素皮款2021年12月另售，未合并为同日。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X3",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X3 典藏版",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X5",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate X5 典藏版",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "P50 Pocket",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "P50 Pocket 艺术定制版",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pocket S",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2022-11-02",
+    "releaseSource": {
+      "title": "华为官方发布会",
+      "url": "https://consumer.huawei.com/cn/press/events/2022/huawei-pocket-s-and-all-scenario-new-product-launch-event/"
+    },
+    "releaseNote": "官方发布会确认发布日；首次中国大陆正式开售日未核实，绝不以发布会日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pocket 2",
+    "releaseDate": "2024-03-01",
+    "releaseMonth": null,
+    "announcementDate": "2024-02-22",
+    "releaseSource": {
+      "title": "央广网原始发布会报道",
+      "url": "https://m.cnr.cn/tech/20240222/t20240222_526604052.html"
+    },
+    "releaseNote": "央广网原始发布会报道转引华为余承东现场声明3月1日正式开售；艺术定制版不自动沿用此日期。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pocket 2 艺术定制版",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "MagicPad 3 13.3英寸",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2025-07-02",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic-v5-launch/"
+    },
+    "releaseNote": "官方确认2025-07-02发布，未在此文明确平板首次开售日期。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura 80 pro plus",
+    "releaseDate": "2025-06-14",
+    "releaseMonth": null,
+    "announcementDate": "2025-06-11",
+    "releaseSource": {
+      "title": "华为Pura80发布通稿转载",
+      "url": "https://finance.sina.com.cn/roll/2025-06-11/doc-ineztmqu4407271.shtml"
+    },
+    "releaseNote": "发布通稿明确Pro/Pro+于6月14日10:08、Ultra于6月26日10:08正式开售，不将系列各版本合成同日。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura 80 ultra",
+    "releaseDate": "2025-06-26",
+    "releaseMonth": null,
+    "announcementDate": "2025-06-11",
+    "releaseSource": {
+      "title": "华为Pura80发布通稿转载",
+      "url": "https://finance.sina.com.cn/roll/2025-06-11/doc-ineztmqu4407271.shtml"
+    },
+    "releaseNote": "发布通稿明确Ultra于6月26日10:08正式开售，与Pro/Pro+分开。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "畅玩 80m",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "MatePad Pro 12英寸",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2026-08-05",
+    "releaseSource": {
+      "title": "华为官方发布会",
+      "url": "https://consumer.huawei.com/cn/press/events/2026/zunjie-flagship-mpv-and-huawei-all-scenario-new-product-launch-event/"
+    },
+    "releaseNote": "官方发布会确认发布日；首次中国大陆正式开售日未核实，绝不以发布会日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "X80i",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "MatePad 11.5 S 2025",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic8 RSR 保时捷设计",
+    "releaseDate": "2026-01-23",
+    "releaseMonth": null,
+    "announcementDate": "2026-01-19",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic8-rsr-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "600",
+    "releaseDate": "2026-05-29",
+    "releaseMonth": null,
+    "announcementDate": "2026-05-25",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-600-launch/"
+    },
+    "releaseNote": "官方新闻明确600 Pro与超级版5月29日开售；本数据中600对应官网超级版入口，名称需与最新官网核对。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura 90 pro max",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2026-04-20",
+    "releaseSource": {
+      "title": "华为官方发布会",
+      "url": "https://consumer.huawei.com/cn/press/events/2026/huawei-pura-90-series-and-new-product-launch-event/"
+    },
+    "releaseNote": "官方发布会确认发布日；首次中国大陆正式开售日未核实，绝不以发布会日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 GT",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 10 Pro",
+    "releaseDate": "2026-01-09",
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-power2-launch/"
+    },
+    "releaseNote": "官方新闻明确全渠道1月9日10:08正式开售；独立发布日未明确。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "MagicPad 4 12.1英寸",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "WIN RT",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2025-12-26",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-win-launch/"
+    },
+    "releaseNote": "2025-12-26官方发布文称“现已全面开售”，只证明截至当日已售，未明确首次开售起点；不以文章日期推断首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 X10 Pro",
+    "releaseDate": "2026-01-09",
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-power2-launch/"
+    },
+    "releaseNote": "官方新闻明确全渠道1月9日10:08正式开售；独立发布日未明确。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 X10",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "畅玩 80",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 10",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate 80",
+    "releaseDate": "2025-11-28",
+    "releaseMonth": null,
+    "announcementDate": "2025-11-25",
+    "releaseSource": {
+      "title": "原始正式开售报道",
+      "url": "https://www.ithome.com/0/900/862.htm"
+    },
+    "releaseNote": "正文明确11月28日10:08正式开售并分别列四款；非当前厂商原公告。部分转载将预售误写11月25日正式开卖，此处遵循正式首销口径。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "X70 Pro Max",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 V9",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 GT 2 Pro",
+    "releaseDate": "2025-07-21",
+    "releaseMonth": null,
+    "announcementDate": "2025-07-15",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-x70-launch/"
+    },
+    "releaseNote": "官方称7月28日正式开售，但明确荣耀商城7月21日先锋体验可抢先购买；按最早可购买日期记录7月21日，并保留7月28日常规首销区别。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Power",
+    "releaseDate": "2025-04-18",
+    "releaseMonth": null,
+    "announcementDate": "2025-04-15",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-power-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "X60 GT",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "WIN Turbo",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "500",
+    "releaseDate": "2025-11-27",
+    "releaseMonth": null,
+    "announcementDate": "2025-11-24",
+    "releaseSource": {
+      "title": "荣耀官方500系列发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-500-launch/"
+    },
+    "releaseNote": "官方明确11月24日发布预售、11月27日10:00全渠道正式开售。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "畅玩 70C",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "nova 15 pro",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Play10T",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Play10C",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "500 Pro",
+    "releaseDate": "2025-11-27",
+    "releaseMonth": null,
+    "announcementDate": "2025-11-24",
+    "releaseSource": {
+      "title": "荣耀官方500系列发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-500-launch/"
+    },
+    "releaseNote": "官方明确11月24日发布预售、11月27日10:00全渠道正式开售。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "畅玩 70 Plus",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate 80 rs ultimate design",
+    "releaseDate": "2025-11-28",
+    "releaseMonth": null,
+    "announcementDate": "2025-11-25",
+    "releaseSource": {
+      "title": "原始正式开售报道",
+      "url": "https://www.ithome.com/0/900/862.htm"
+    },
+    "releaseNote": "正文明确11月28日10:08正式开售并分别列四款；非当前厂商原公告。部分转载将预售误写11月25日正式开卖，此处遵循正式首销口径。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic8 Pro",
+    "releaseDate": "2025-10-23",
+    "releaseMonth": null,
+    "announcementDate": "2025-10-15",
+    "releaseSource": {
+      "title": "荣耀官方Magic8系列发布新闻及商城公告",
+      "url": "https://www.honor.com/cn/news/honor-magic8-launch/"
+    },
+    "releaseNote": "官方将10月23日称正式启售；荣耀商城notice-17198另有10月15日发布会后前600单立即发货活动，故记录常规正式首销日，同时披露限量提前发货，不混同预售与正式开售。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic8",
+    "releaseDate": "2025-10-23",
+    "releaseMonth": null,
+    "announcementDate": "2025-10-15",
+    "releaseSource": {
+      "title": "荣耀官方Magic8系列发布新闻及商城公告",
+      "url": "https://www.honor.com/cn/news/honor-magic8-launch/"
+    },
+    "releaseNote": "官方将10月23日称正式启售；荣耀商城notice-17198另有10月15日发布会后前600单立即发货活动，故记录常规正式首销日，同时披露限量提前发货，不混同预售与正式开售。"
+  },
+  {
+    "brand": "华为",
+    "model": "nova 14 pro",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "MagicPad 3 Pro 13.3英寸",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2025-10-15",
+    "releaseSource": {
+      "title": "荣耀官方Magic8发布新闻（全场景新品）",
+      "url": "https://www.honor.com/cn/news/honor-magic8-launch/"
+    },
+    "releaseNote": "官方文确认同场发布两款平板，但未明确各自正式开售日，首销保留空值。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "WIN",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2025-12-26",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-win-launch/"
+    },
+    "releaseNote": "2025-12-26官方发布文称“现已全面开售”，只证明截至当日已售，未明确首次开售起点；不以文章日期推断首销。"
+  },
+  {
+    "brand": "华为",
+    "model": "nova 14",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "MatePad Air 12英寸",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "MatePad Air 2025",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "nova 15",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "600 Pro",
+    "releaseDate": "2026-05-29",
+    "releaseMonth": null,
+    "announcementDate": "2026-05-25",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-600-launch/"
+    },
+    "releaseNote": "官方新闻明确600 Pro与超级版5月29日开售；本数据中600对应官网超级版入口，名称需与最新官网核对。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Play10",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 X9",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura 90 pro",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2026-04-20",
+    "releaseSource": {
+      "title": "华为官方发布会",
+      "url": "https://consumer.huawei.com/cn/press/events/2026/huawei-pura-90-series-and-new-product-launch-event/"
+    },
+    "releaseNote": "官方发布会确认发布日；首次中国大陆正式开售日未核实，绝不以发布会日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura 80 pro",
+    "releaseDate": "2025-06-14",
+    "releaseMonth": null,
+    "announcementDate": "2025-06-11",
+    "releaseSource": {
+      "title": "华为Pura80发布通稿转载",
+      "url": "https://finance.sina.com.cn/roll/2025-06-11/doc-ineztmqu4407271.shtml"
+    },
+    "releaseNote": "发布通稿明确Pro/Pro+于6月14日10:08、Ultra于6月26日10:08正式开售，不将系列各版本合成同日。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 GT Pro",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "nova 15 ultra",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "X70",
+    "releaseDate": "2025-07-18",
+    "releaseMonth": null,
+    "announcementDate": "2025-07-15",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-x70-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 X9 Pro",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "X70i",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Power2",
+    "releaseDate": "2026-01-09",
+    "releaseMonth": null,
+    "announcementDate": "2026-01-05",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-power2-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "畅玩 80 Pro",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "畅玩 80 Plus",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "平板 X10 Pro Max",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate 80 pro max",
+    "releaseDate": "2025-11-28",
+    "releaseMonth": null,
+    "announcementDate": "2025-11-25",
+    "releaseSource": {
+      "title": "原始正式开售报道",
+      "url": "https://www.ithome.com/0/900/862.htm"
+    },
+    "releaseNote": "正文明确11月28日10:08正式开售并分别列四款；非当前厂商原公告。部分转载将预售误写11月25日正式开卖，此处遵循正式首销口径。"
+  },
+  {
+    "brand": "华为",
+    "model": "MatePad Mini",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Mate 80 pro",
+    "releaseDate": "2025-11-28",
+    "releaseMonth": null,
+    "announcementDate": "2025-11-25",
+    "releaseSource": {
+      "title": "原始正式开售报道",
+      "url": "https://www.ithome.com/0/900/862.htm"
+    },
+    "releaseNote": "正文明确11月28日10:08正式开售并分别列四款；非当前厂商原公告。部分转载将预售误写11月25日正式开卖，此处遵循正式首销口径。"
+  },
+  {
+    "brand": "华为",
+    "model": "MatePad 11.5 2026",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "MagicPad 3 12.5英寸",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2025-10-15",
+    "releaseSource": {
+      "title": "荣耀官方Magic8发布新闻（全场景新品）",
+      "url": "https://www.honor.com/cn/news/honor-magic8-launch/"
+    },
+    "releaseNote": "官方文确认同场发布两款平板，但未明确各自正式开售日，首销保留空值。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura 90",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": "2026-04-20",
+    "releaseSource": {
+      "title": "华为官方发布会",
+      "url": "https://consumer.huawei.com/cn/press/events/2026/huawei-pura-90-series-and-new-product-launch-event/"
+    },
+    "releaseNote": "官方发布会确认发布日；首次中国大陆正式开售日未核实，绝不以发布会日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "Pura 80",
+    "releaseDate": "2025-07-30",
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": {
+      "title": "Pura80标准版正式发售报道",
+      "url": "https://www.ithome.com/0/871/569.htm"
+    },
+    "releaseNote": "正文明确标准版7月30日10:08正式开售；不使用Pro系列6月14日日期；标准版独立正式发布日未确认。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "MagicPad 3 Pro 12.3英寸",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magicpad-pro-12-3-launch/"
+    },
+    "releaseNote": "2026-04-23官方文称现已开售，只确立开售上界，未将文章日期当成首销日。"
+  },
+  {
+    "brand": "荣耀",
+    "model": "Magic8 Pro Air",
+    "releaseDate": "2026-01-23",
+    "releaseMonth": null,
+    "announcementDate": "2026-01-19",
+    "releaseSource": {
+      "title": "官方新品发布新闻",
+      "url": "https://www.honor.com/cn/news/honor-magic8-pro-air-launch/"
+    },
+    "releaseNote": "官方新闻明确区分预售与正式开售；日期指中国大陆首销。"
+  },
+  {
+    "brand": "华为",
+    "model": "MatePad SE 11英寸",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "nova 14 ultra",
+    "releaseDate": null,
+    "releaseMonth": null,
+    "announcementDate": null,
+    "releaseSource": null,
+    "releaseNote": "未找到足够明确的中国大陆首次正式开售日期证据；不使用网页发布日期或抓取日期替代。"
+  },
+  {
+    "brand": "华为",
+    "model": "nova Flip",
+    "releaseDate": "2024-08-09",
+    "releaseMonth": null,
+    "announcementDate": "2024-08-05",
+    "releaseSource": {
+      "title": "IT之家原始首销报道",
+      "url": "https://www.ithome.com/0/787/282.htm"
+    },
+    "releaseNote": "原始首销报道明确8月9日10:08首次正式开售；非厂商当前日期公告。"
+  },
+  {
+    "brand": "华为",
+    "model": "nova Flip S",
+    "releaseDate": "2025-10-24",
+    "releaseMonth": null,
+    "announcementDate": "2025-10-17",
+    "releaseSource": {
+      "title": "媒体转引华为novaFlipS正式开售",
+      "url": "https://finance.sina.cn/stock/jdts/2025-10-24/detail-infuyers8660320.d.html"
+    },
+    "releaseNote": "开售报道明确10月24日正式开售；10月17日仅预售，证据为媒体转引。"
+  }
+]

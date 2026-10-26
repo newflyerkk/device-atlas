@@ -1,0 +1,3992 @@
+{
+  "devices": [
+    {
+      "brand": "荣耀",
+      "model": "Magic V",
+      "year": 2022,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "160.4×72.7×14.3 mm",
+      "bodyOpen": "160.4×141.1×6.7 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1984,
+          "hpx": 2272,
+          "diagonal": 7.9,
+          "ppi": 381.8,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "661.33×757.33 dp（开发者文档480dpi配置）"
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2560,
+          "diagonal": 6.45,
+          "ppi": 430.8,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "360.00×853.33 dp（开发者文档480dpi配置）"
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v/spec/"
+        },
+        {
+          "title": "荣耀开发者折叠屏规格（逻辑密度）",
+          "url": "https://developer.honor.com/cn/docs/adaptation_guide/guides/foldable_device_specifications"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。逻辑密度为官方开发者表对应初始系统配置，显示设置/系统升级后需实机核实。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic Vs",
+      "year": 2022,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "160.3×72.6×12.9 mm",
+      "bodyOpen": "160.3×141.5×6.1 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1984,
+          "hpx": 2272,
+          "diagonal": 7.9,
+          "ppi": 381.8,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "661.33×757.33 dp（开发者文档480dpi配置）"
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2560,
+          "diagonal": 6.45,
+          "ppi": 430.8,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "360.00×853.33 dp（开发者文档480dpi配置）"
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-vs/spec/"
+        },
+        {
+          "title": "荣耀开发者折叠屏规格（逻辑密度）",
+          "url": "https://developer.honor.com/cn/docs/adaptation_guide/guides/foldable_device_specifications"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。逻辑密度为官方开发者表对应初始系统配置，显示设置/系统升级后需实机核实。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic Vs 至臻版",
+      "year": 2022,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "160.3×72.6×12.9 mm",
+      "bodyOpen": "160.3×141.5×6.1 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1984,
+          "hpx": 2272,
+          "diagonal": 7.9,
+          "ppi": 381.8,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "661.33×757.33 dp（开发者文档480dpi配置）"
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2560,
+          "diagonal": 6.45,
+          "ppi": 430.8,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "360.00×853.33 dp（开发者文档480dpi配置）"
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-vs-ultimate/spec/"
+        },
+        {
+          "title": "荣耀开发者折叠屏规格（逻辑密度）",
+          "url": "https://developer.honor.com/cn/docs/adaptation_guide/guides/foldable_device_specifications"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。逻辑密度为官方开发者表对应初始系统配置，显示设置/系统升级后需实机核实。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic V2",
+      "year": 2023,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.7×74×9.9 mm",
+      "bodyOpen": "156.7×145.4×4.7 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2156,
+          "hpx": 2344,
+          "diagonal": 7.92,
+          "ppi": 402.1,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "718.67×781.33 dp（开发者文档480dpi配置）"
+        },
+        {
+          "name": "外屏",
+          "wpx": 1060,
+          "hpx": 2376,
+          "diagonal": 6.43,
+          "ppi": 404.6,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "353.33×792.00 dp（开发者文档480dpi配置）"
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v2/spec/"
+        },
+        {
+          "title": "荣耀开发者折叠屏规格（逻辑密度）",
+          "url": "https://developer.honor.com/cn/docs/adaptation_guide/guides/foldable_device_specifications"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。逻辑密度为官方开发者表对应初始系统配置，显示设置/系统升级后需实机核实。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic V2 至臻版",
+      "year": 2023,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.7×74×9.9 mm",
+      "bodyOpen": "156.7×145.4×4.7 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2156,
+          "hpx": 2344,
+          "diagonal": 7.92,
+          "ppi": 402.1,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "718.67×781.33 dp（开发者文档480dpi配置）"
+        },
+        {
+          "name": "外屏",
+          "wpx": 1060,
+          "hpx": 2376,
+          "diagonal": 6.43,
+          "ppi": 404.6,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "353.33×792.00 dp（开发者文档480dpi配置）"
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v2/spec/"
+        },
+        {
+          "title": "荣耀开发者折叠屏规格（逻辑密度）",
+          "url": "https://developer.honor.com/cn/docs/adaptation_guide/guides/foldable_device_specifications"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。逻辑密度为官方开发者表对应初始系统配置，显示设置/系统升级后需实机核实。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic Vs2",
+      "year": 2023,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "157.5×74.4×10.7 mm",
+      "bodyOpen": "157.5×146.2×5.1 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2156,
+          "hpx": 2344,
+          "diagonal": 7.92,
+          "ppi": 402.1,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "718.67×781.33 dp（开发者文档480dpi配置）"
+        },
+        {
+          "name": "外屏",
+          "wpx": 1060,
+          "hpx": 2376,
+          "diagonal": 6.43,
+          "ppi": 404.6,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "353.33×792.00 dp（开发者文档480dpi配置）"
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-vs-2/spec/"
+        },
+        {
+          "title": "荣耀开发者折叠屏规格（逻辑密度）",
+          "url": "https://developer.honor.com/cn/docs/adaptation_guide/guides/foldable_device_specifications"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。逻辑密度为官方开发者表对应初始系统配置，显示设置/系统升级后需实机核实。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "V Purse",
+      "year": 2023,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.5×74.7×8.6 mm",
+      "bodyOpen": "156.5×135.6×4.3 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2016,
+          "hpx": 2348,
+          "diagonal": 7.71,
+          "ppi": 401.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1088,
+          "hpx": 2348,
+          "diagonal": 6.45,
+          "ppi": 401.2,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-v-purse/spec/"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。V Purse 为外折屏，内/外屏指展开/折叠显示区。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic V2 RSR 保时捷设计",
+      "year": 2024,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.7×74×9.9 mm",
+      "bodyOpen": "156.7×145.4×4.7 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2156,
+          "hpx": 2344,
+          "diagonal": 7.92,
+          "ppi": 402.1,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "718.67×781.33 dp（开发者文档480dpi配置）"
+        },
+        {
+          "name": "外屏",
+          "wpx": 1060,
+          "hpx": 2376,
+          "diagonal": 6.43,
+          "ppi": 404.6,
+          "ppiKind": "计算",
+          "densityDpi": 480,
+          "logical": "353.33×792.00 dp（开发者文档480dpi配置）"
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v2-rsr-porsche-design/spec/"
+        },
+        {
+          "title": "荣耀开发者折叠屏规格（逻辑密度）",
+          "url": "https://developer.honor.com/cn/docs/adaptation_guide/guides/foldable_device_specifications"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。逻辑密度为官方开发者表对应初始系统配置，显示设置/系统升级后需实机核实。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic V3",
+      "year": 2024,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.6×74×9.2 mm",
+      "bodyOpen": "156.6×145.3×4.35 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2156,
+          "hpx": 2344,
+          "diagonal": 7.92,
+          "ppi": 402.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1060,
+          "hpx": 2376,
+          "diagonal": 6.43,
+          "ppi": 404.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v3/spec/"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic Vs3",
+      "year": 2024,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.8×74×9.8 mm",
+      "bodyOpen": "156.8×145.2×4.65 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2156,
+          "hpx": 2344,
+          "diagonal": 7.92,
+          "ppi": 402.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1060,
+          "hpx": 2376,
+          "diagonal": 6.43,
+          "ppi": 404.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-vs-3/spec/"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic V5",
+      "year": 2025,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.8×74.3×8.8 mm",
+      "bodyOpen": "156.8×145.9×4.1 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2172,
+          "hpx": 2352,
+          "diagonal": 7.95,
+          "ppi": 402.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1060,
+          "hpx": 2376,
+          "diagonal": 6.43,
+          "ppi": 404.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v5/spec/"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic V6",
+      "year": 2026,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.7×74.5×8.75 mm",
+      "bodyOpen": "156.7×145.6×4 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2172,
+          "hpx": 2352,
+          "diagonal": 7.95,
+          "ppi": 402.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2420,
+          "diagonal": 6.52,
+          "ppi": 406.5,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v6/spec/"
+        }
+      ],
+      "notes": "机身厚度选最薄配色/材质版本，其他版本可能不同。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic V Flip",
+      "year": 2024,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "86.5×75.6×14.89 mm",
+      "bodyOpen": "167.3×75.6×7.15 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1080,
+          "hpx": 2520,
+          "diagonal": 6.8,
+          "ppi": 403.2,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1092,
+          "hpx": 1200,
+          "diagonal": 4,
+          "ppi": 405.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v-flip/spec/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic V Flip 高定款",
+      "year": 2024,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "86.5×75.6×14.89 mm",
+      "bodyOpen": "167.3×75.6×7.15 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1080,
+          "hpx": 2520,
+          "diagonal": 6.8,
+          "ppi": 403.2,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1092,
+          "hpx": 1200,
+          "diagonal": 4,
+          "ppi": 405.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v-flip/spec/"
+        }
+      ],
+      "notes": "官网将高定款作为同系列配置列示，屏幕规格共用；尺寸需结合具体材质版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic V Flip2",
+      "year": 2025,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "86.2×75.6×15.5 mm",
+      "bodyOpen": "167.1×75.6×6.9 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1232,
+          "hpx": 2868,
+          "diagonal": 6.82,
+          "ppi": 457.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1092,
+          "hpx": 1200,
+          "diagonal": 4,
+          "ppi": 405.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v-flip2/spec/"
+        }
+      ],
+      "notes": ""
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic V Flip2 高定款",
+      "year": 2025,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "86.2×75.6×15.5 mm",
+      "bodyOpen": "167.1×75.6×6.9 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1232,
+          "hpx": 2868,
+          "diagonal": 6.82,
+          "ppi": 457.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1092,
+          "hpx": 1200,
+          "diagonal": 4,
+          "ppi": 405.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic-v-flip2/spec/"
+        }
+      ],
+      "notes": "官网将高定款作为同系列配置列示，屏幕规格共用；尺寸需结合具体材质版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X6",
+      "year": 2024,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.6×73.78×9.85 mm",
+      "bodyOpen": "156.6×144.04×4.6 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2240,
+          "hpx": 2440,
+          "diagonal": 7.93,
+          "ppi": 417.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2440,
+          "diagonal": 6.45,
+          "ppi": 413.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/mate-x6/specs/"
+        }
+      ],
+      "notes": "厚度依材质版本有差异。HarmonyOS 版本对应逻辑单位需实机读取；原生鸿蒙使用 vp。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X6 典藏版",
+      "year": 2024,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.6×73.78×9.85 mm",
+      "bodyOpen": "156.6×144.04×4.6 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2240,
+          "hpx": 2440,
+          "diagonal": 7.93,
+          "ppi": 417.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2440,
+          "diagonal": 6.45,
+          "ppi": 413.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/mate-x6/specs/"
+        }
+      ],
+      "notes": "厚度依材质版本有差异。HarmonyOS 版本对应逻辑单位需实机读取；原生鸿蒙使用 vp。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X7",
+      "year": 2025,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.8×73.8×9.5 mm",
+      "bodyOpen": "156.8×144.2×4.5 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2210,
+          "hpx": 2416,
+          "diagonal": 8,
+          "ppi": 409.3,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2444,
+          "diagonal": 6.49,
+          "ppi": 411.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/mate-x7/specs/"
+        }
+      ],
+      "notes": "厚度依材质版本有差异。HarmonyOS 版本对应逻辑单位需实机读取；原生鸿蒙使用 vp。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X7 典藏版",
+      "year": 2025,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.8×73.8×9.5 mm",
+      "bodyOpen": "156.8×144.2×4.5 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2210,
+          "hpx": 2416,
+          "diagonal": 8,
+          "ppi": 409.3,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2444,
+          "diagonal": 6.49,
+          "ppi": 411.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/mate-x7/specs/"
+        }
+      ],
+      "notes": "厚度依材质版本有差异。HarmonyOS 版本对应逻辑单位需实机读取；原生鸿蒙使用 vp。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate XT 非凡大师",
+      "year": 2024,
+      "type": "手机",
+      "form": "三折",
+      "market": "历史已发布",
+      "bodyFold": "156.7×73.5×12.8 mm",
+      "bodyOpen": "156.7×219.0×3.6/3.6/4.75 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "单屏",
+          "wpx": 1008,
+          "hpx": 2232,
+          "diagonal": 6.4,
+          "ppi": 382.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "双屏",
+          "wpx": 2048,
+          "hpx": 2232,
+          "diagonal": 7.9,
+          "ppi": 383.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "三屏",
+          "wpx": 3184,
+          "hpx": 2232,
+          "diagonal": 10.2,
+          "ppi": 381.2,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/mate-xt-ultimate-design/specs/"
+        }
+      ],
+      "notes": "双屏态机身：156.7×143.0×7.45/4.75 mm；一整块屏不同展开状态，物理估算可能因标称对角线取整略有不一致。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate XTs 非凡大师",
+      "year": 2025,
+      "type": "手机",
+      "form": "三折",
+      "market": "历史已发布",
+      "bodyFold": "156.7×73.5×12.8 mm",
+      "bodyOpen": "156.7×219.0×3.6/3.6/4.75 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "单屏",
+          "wpx": 1008,
+          "hpx": 2232,
+          "diagonal": 6.4,
+          "ppi": 382.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "双屏",
+          "wpx": 2048,
+          "hpx": 2232,
+          "diagonal": 7.9,
+          "ppi": 383.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "三屏",
+          "wpx": 3184,
+          "hpx": 2232,
+          "diagonal": 10.2,
+          "ppi": 381.2,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/mate-xts-ultimate-design/specs/"
+        }
+      ],
+      "notes": "双屏态机身：156.7×143.0×7.45/4.75 mm；一整块屏不同展开状态，物理估算可能因标称对角线取整略有不一致。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura X",
+      "year": 2025,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "91.7×74.3×15.1 mm",
+      "bodyOpen": "143.2×91.7×7.15 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1320,
+          "hpx": 2120,
+          "diagonal": 6.3,
+          "ppi": 396.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 980,
+          "hpx": 980,
+          "diagonal": 3.5,
+          "ppi": 396.0,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura-x/specs/"
+        }
+      ],
+      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura X 典藏版",
+      "year": 2025,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "91.7×74.3×15.1 mm",
+      "bodyOpen": "143.2×91.7×7.15 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1320,
+          "hpx": 2120,
+          "diagonal": 6.3,
+          "ppi": 396.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 980,
+          "hpx": 980,
+          "diagonal": 3.5,
+          "ppi": 396.0,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura-x/specs/"
+        }
+      ],
+      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura X Max",
+      "year": 2026,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "120×85×11.2 mm",
+      "bodyOpen": "120×166.5×5.2 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2584,
+          "hpx": 1828,
+          "diagonal": 7.7,
+          "ppi": 411.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1264,
+          "hpx": 1848,
+          "diagonal": 5.4,
+          "ppi": 414.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura-x-max/specs/"
+        }
+      ],
+      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura X Max 典藏版",
+      "year": 2026,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "120×85×11.2 mm",
+      "bodyOpen": "120×166.5×5.2 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2584,
+          "hpx": 1828,
+          "diagonal": 7.7,
+          "ppi": 411.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1264,
+          "hpx": 1848,
+          "diagonal": 5.4,
+          "ppi": 414.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura-x-max/specs/"
+        }
+      ],
+      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pocket 2 优享版",
+      "year": 2025,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "87.8×75.5×15.3 mm",
+      "bodyOpen": "170×75.5×7.25 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1136,
+          "hpx": 2690,
+          "diagonal": 6.94,
+          "ppi": 420,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 340,
+          "hpx": 340,
+          "diagonal": 1.15,
+          "ppi": 296,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null,
+          "shape": "circle",
+          "diagonalKind": "直径"
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pocket-2-youxiangban/specs/"
+        }
+      ],
+      "notes": "Pura X Max 内屏按官方展开机身方向列为横向。圆形外屏的对角线为圆形屏幕标称尺寸，不应用矩形对角线公式估算圆形显示区。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate Xs 2",
+      "year": 2022,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.5×75.5×11.1 mm",
+      "bodyOpen": "156.5×139.3×5.4–11.1 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2200,
+          "hpx": 2480,
+          "diagonal": 7.8,
+          "ppi": 424,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1176,
+          "hpx": 2480,
+          "diagonal": 6.5,
+          "ppi": 424,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/sg/phones/mate-xs2/specs/"
+        }
+      ],
+      "notes": "官方新加坡历史规格页；外折屏，内/外屏指展开/折叠显示区；中国大陆典藏版另列，配置和系统不采用海外值。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate Xs 2 典藏版",
+      "year": 2022,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2200,
+          "hpx": 2480,
+          "diagonal": 7.8,
+          "ppi": 424,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1176,
+          "hpx": 2480,
+          "diagonal": 6.5,
+          "ppi": 424,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/sg/phones/mate-xs2/specs/"
+        },
+        {
+          "title": "华为支持产品列表",
+          "url": "https://consumer.huawei.com/cn/support/content/zh-cn16025897/"
+        }
+      ],
+      "notes": "中国版典藏款存在于华为支持列表；屏幕同系列，机身厚度未独立核实。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X",
+      "year": 2019,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "161.3×78.3×11 mm",
+      "bodyOpen": "161.3×146.2×5.4–11 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2200,
+          "hpx": 2480,
+          "diagonal": 8,
+          "ppi": 414.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1148,
+          "hpx": 2480,
+          "diagonal": 6.6,
+          "ppi": 414.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "背面显示区",
+          "wpx": 892,
+          "hpx": 2480,
+          "diagonal": 6.38,
+          "ppi": 413.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "2019华为发布规格截图存档（来源标明Huawei）",
+          "url": "https://www.eugenefn.com/common/files/amail/20190225_B45_jongsun.Park_981.pdf"
+        },
+        {
+          "title": "华为中国支持确认型号",
+          "url": "https://consumer.huawei.com/cn/support/content/zh-cn15927316/"
+        }
+      ],
+      "notes": "原官方产品页已撤下，采用标注Huawei来源的2019发布规格截图存档；PPI为计算值；外折屏内/外屏为展开/折叠显示区。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate Xs",
+      "year": 2020,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "161.3×78.5×11 mm",
+      "bodyOpen": "161.3×146.2×5.4–11 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2200,
+          "hpx": 2480,
+          "diagonal": 8,
+          "ppi": 414.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1148,
+          "hpx": 2480,
+          "diagonal": 6.6,
+          "ppi": 414.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "背面显示区",
+          "wpx": 892,
+          "hpx": 2480,
+          "diagonal": 6.38,
+          "ppi": 413.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为2020年官方发布新闻及规格表",
+          "url": "https://consumer.huawei.com/ua/press/news/2020/news-200224-01/"
+        },
+        {
+          "title": "华为泰国官方 Mate Xs 规格（旧网址 mate-x-s）",
+          "url": "https://consumer.huawei.com/th/phones/mate-x-s/specs/"
+        }
+      ],
+      "notes": "华为泰国官方历史规格核实8英寸展开屏2480×2200，以及折叠前后显示区域；机身由2020官方发布新闻核验。外折屏内/外屏指展开/折叠显示区。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X2",
+      "year": 2021,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "161.8×74.6×13.6–14.7 mm",
+      "bodyOpen": "161.8×145.8×4.4–8.2 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2200,
+          "hpx": 2480,
+          "diagonal": 8,
+          "ppi": 413,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1160,
+          "hpx": 2700,
+          "diagonal": 6.45,
+          "ppi": 456,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "Mate X2 规格表存档（渠道商保存的华为参数）",
+          "url": "https://www.router-switch.com/pdf2html/pdf/huawei-mate-x2-datasheet.pdf"
+        },
+        {
+          "title": "原始上手评测规格交叉核对",
+          "url": "https://www.androidauthority.com/huawei-mate-x2-review-1210103/"
+        }
+      ],
+      "notes": "官方历史规格页已撤下；数值由渠道商留存规格表及原始评测交叉核对，非当前厂商网页直接核验。厚度为楔形两端范围。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X2 4G",
+      "year": 2021,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "161.8×74.6×13.6–14.7 mm",
+      "bodyOpen": "161.8×145.8×4.4–8.2 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2200,
+          "hpx": 2480,
+          "diagonal": 8,
+          "ppi": 414.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1160,
+          "hpx": 2700,
+          "diagonal": 6.45,
+          "ppi": 455.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "2021原始上架报道：除网络外其他方面与5G版相同",
+          "url": "https://www.sohu.com/a/462524211_114950"
+        },
+        {
+          "title": "2021上市报道：4G版两块屏幕像素和对角线",
+          "url": "https://www.xcc.com/news/detail/3962884"
+        },
+        {
+          "title": "系列硬件规格表存档",
+          "url": "https://www.router-switch.com/pdf2html/pdf/huawei-mate-x2-datasheet.pdf"
+        }
+      ],
+      "notes": "4G版屏幕由2021上市报道核实；机身采用同期原始报道“其他方面与5G版相同”与系列存档规格交叉核对，不是当前厂商参数页直接核验；PPI计算。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X2 典藏版",
+      "year": 2021,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2200,
+          "hpx": 2480,
+          "diagonal": 8,
+          "ppi": 414.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1160,
+          "hpx": 2700,
+          "diagonal": 6.45,
+          "ppi": 455.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "2021-11-17 IT之家发布会原始报道",
+          "url": "https://www.ithome.com/0/587/348.htm"
+        },
+        {
+          "title": "华为支持确认典藏型号",
+          "url": "https://consumer.huawei.com/cn/support/content/zh-cn15956769/"
+        }
+      ],
+      "notes": "屏幕分辨率和对角线按2021发布报道核验；独立材质/玻璃与素皮款机身数值尚未取得足够原始证据，保留空值。PPI统一计算，避免报道412/其他资料413的取整口径冲突。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X3",
+      "year": 2023,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.9×72.4×11.08 mm",
+      "bodyOpen": "156.9×141.5×5.3 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2224,
+          "hpx": 2496,
+          "diagonal": 7.85,
+          "ppi": 426,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2504,
+          "diagonal": 6.4,
+          "ppi": 426,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为巴林官方硬件规格",
+          "url": "https://consumer.huawei.com/bh/phones/mate-x3/specs/"
+        }
+      ],
+      "notes": "采用官方巴林保留页核验相同型号屏幕与机身；不采用海外系统/内存配置。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X3 典藏版",
+      "year": 2023,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2224,
+          "hpx": 2496,
+          "diagonal": 7.85,
+          "ppi": 425.9,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2504,
+          "diagonal": 6.4,
+          "ppi": 426.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "2023发布原始报道：MateX3及典藏版系列屏幕规格",
+          "url": "https://www.sogi.com.tw/articles/huawei_p60/6259509"
+        },
+        {
+          "title": "2023发布资料：MateX3系列内外屏尺寸",
+          "url": "https://pdf.dfcfw.com/pdf/H3_AP202303241584528036_1.pdf"
+        },
+        {
+          "title": "华为支持确认MateX3典藏版",
+          "url": "https://consumer.huawei.com/cn/support/content/zh-cn15956769/"
+        }
+      ],
+      "notes": "屏幕采用发布资料对MateX3系列的共同参数；典藏版改用不同电池，机身独立尺寸尚未直接核验，因此不照搬普通版尺寸。PPI为计算值。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X5",
+      "year": 2023,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.9×72.4×11.08 mm",
+      "bodyOpen": "156.9×141.5×5.3 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2224,
+          "hpx": 2496,
+          "diagonal": 7.85,
+          "ppi": 425.9,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2504,
+          "diagonal": 6.4,
+          "ppi": 426.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "苏宁自营产品参数（内屏PPI426，像素矩阵）",
+          "url": "https://product.suning.com/0000000000/12419472890.html"
+        },
+        {
+          "title": "2023发布报道（机身尺寸和屏幕尺寸）",
+          "url": "https://www.gizmochina.com/2023/09/08/huawei-mate-x5-launched-with-7-85-inch-foldable-display-50mp-triple-cameras/"
+        },
+        {
+          "title": "华为支持确认典藏/标准型号",
+          "url": "https://consumer.huawei.com/cn/support/content/zh-cn16025897/"
+        }
+      ],
+      "notes": "原官方规格页已撤下，采用中国自营渠道参数与发布报道交叉核对，当前厂商原页未核验；PPI按对角线计算，渠道公开内屏PPI为426。典藏版同系列几何参考，未独立核验全部材质厚度。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate X5 典藏版",
+      "year": 2023,
+      "type": "手机",
+      "form": "横折",
+      "market": "历史已发布",
+      "bodyFold": "156.9×72.4×11.08 mm",
+      "bodyOpen": "156.9×141.5×5.3 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 2224,
+          "hpx": 2496,
+          "diagonal": 7.85,
+          "ppi": 425.9,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 1080,
+          "hpx": 2504,
+          "diagonal": 6.4,
+          "ppi": 426.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "苏宁自营产品参数（内屏PPI426，像素矩阵）",
+          "url": "https://product.suning.com/0000000000/12419472890.html"
+        },
+        {
+          "title": "2023发布报道（机身尺寸和屏幕尺寸）",
+          "url": "https://www.gizmochina.com/2023/09/08/huawei-mate-x5-launched-with-7-85-inch-foldable-display-50mp-triple-cameras/"
+        },
+        {
+          "title": "华为支持确认典藏/标准型号",
+          "url": "https://consumer.huawei.com/cn/support/content/zh-cn16025897/"
+        }
+      ],
+      "notes": "原官方规格页已撤下，采用中国自营渠道参数与发布报道交叉核对，当前厂商原页未核验；PPI按对角线计算，渠道公开内屏PPI为426。典藏版同系列几何参考，未独立核验全部材质厚度。"
+    },
+    {
+      "brand": "华为",
+      "model": "P50 Pocket",
+      "year": 2021,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "87.3×75.5×15.2 mm",
+      "bodyOpen": "170×75.5×7.2 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1188,
+          "hpx": 2790,
+          "diagonal": 6.9,
+          "ppi": 439.5,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 340,
+          "hpx": 340,
+          "diagonal": 1.04,
+          "ppi": null,
+          "ppiKind": "未公开",
+          "densityDpi": null,
+          "logical": null,
+          "shape": "circle",
+          "diagonalKind": "直径"
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为马来西亚官方商店屏幕规格",
+          "url": "https://consumer.huawei.com/my/phones/p50/buy/"
+        },
+        {
+          "title": "华为卡塔尔官方产品对比（机身尺寸）",
+          "url": "https://consumer.huawei.com/qa/phones/mate-xs2/"
+        },
+        {
+          "title": "华为中国支持（标准/艺术款确认）",
+          "url": "https://consumer.huawei.com/cn/support/p50pocket/"
+        }
+      ],
+      "notes": "相同型号海外官方页核验硬件，未采用海外系统/内存。PPI未找到该官方页公开值，内屏按对角线计算；圆形外屏标称1.04英寸为直径，PPI留空。"
+    },
+    {
+      "brand": "华为",
+      "model": "P50 Pocket 艺术定制版",
+      "year": 2021,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "87.3×75.5×15.2 mm",
+      "bodyOpen": "170×75.5×7.2 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1188,
+          "hpx": 2790,
+          "diagonal": 6.9,
+          "ppi": 439.5,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 340,
+          "hpx": 340,
+          "diagonal": 1.04,
+          "ppi": null,
+          "ppiKind": "未公开",
+          "densityDpi": null,
+          "logical": null,
+          "shape": "circle",
+          "diagonalKind": "直径"
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为马来西亚官方商店屏幕规格",
+          "url": "https://consumer.huawei.com/my/phones/p50/buy/"
+        },
+        {
+          "title": "华为卡塔尔官方产品对比（机身尺寸）",
+          "url": "https://consumer.huawei.com/qa/phones/mate-xs2/"
+        },
+        {
+          "title": "华为中国支持（标准/艺术款确认）",
+          "url": "https://consumer.huawei.com/cn/support/p50pocket/"
+        }
+      ],
+      "notes": "相同型号海外官方页核验硬件，未采用海外系统/内存。PPI未找到该官方页公开值，内屏按对角线计算；圆形外屏标称1.04英寸为直径，PPI留空。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pocket S",
+      "year": 2022,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "87.3×75.5×15.2 mm",
+      "bodyOpen": "170×75.5×7.2 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1188,
+          "hpx": 2790,
+          "diagonal": 6.9,
+          "ppi": 439.5,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 340,
+          "hpx": 340,
+          "diagonal": 1.04,
+          "ppi": null,
+          "ppiKind": "未公开",
+          "densityDpi": null,
+          "logical": null,
+          "shape": "circle",
+          "diagonalKind": "直径"
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方2022-11-02发布会（型号与日期）",
+          "url": "https://consumer.huawei.com/cn/press/events/2022/huawei-pocket-s-and-all-scenario-new-product-launch-event/"
+        },
+        {
+          "title": "PhoneArena历史公开参数（几何与像素）",
+          "url": "https://www.phonearena.com/phones/Huawei-Pocket-S_id12043"
+        },
+        {
+          "title": "天极产品资料（外屏1.04英寸）",
+          "url": "https://wap.yesky.com/product/product/1151/1151135/param.shtml"
+        }
+      ],
+      "notes": "官方旧参数页已撤下；几何数据采用第三方公开参数，未标为厂商直接核实。PPI按对角线计算；外屏圆形1.04英寸为直径。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pocket 2",
+      "year": 2024,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "87.8×75.5×15.3 mm",
+      "bodyOpen": "170×75.5×7.25 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1136,
+          "hpx": 2690,
+          "diagonal": 6.94,
+          "ppi": 420,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 340,
+          "hpx": 340,
+          "diagonal": 1.15,
+          "ppi": 296,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null,
+          "shape": "circle",
+          "diagonalKind": "直径"
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为商城 Pocket2 官方产品参数",
+          "url": "https://www.vmall.com/product/comdetail/index.html?prdId=10086366428332"
+        }
+      ],
+      "notes": "标准玻璃版厚度列示；素皮版展开7.35、折叠15.5 mm。艺术款机身独立厚度尚未核实。圆形外屏1.15英寸是直径口径，不使用矩形对角线计算物理长宽。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pocket 2 艺术定制版",
+      "year": 2024,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1136,
+          "hpx": 2690,
+          "diagonal": 6.94,
+          "ppi": 420,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 340,
+          "hpx": 340,
+          "diagonal": 1.15,
+          "ppi": 296,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null,
+          "shape": "circle",
+          "diagonalKind": "直径"
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为商城 Pocket2 官方产品参数",
+          "url": "https://www.vmall.com/product/comdetail/index.html?prdId=10086366428332"
+        }
+      ],
+      "notes": "标准玻璃版厚度列示；素皮版展开7.35、折叠15.5 mm。艺术款机身独立厚度尚未核实。圆形外屏1.15英寸是直径口径，不使用矩形对角线计算物理长宽。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "MagicPad 3 13.3英寸",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "293.88×201.38×5.79 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 3200,
+          "hpx": 2136,
+          "diagonal": 13.3,
+          "ppi": 291,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-magicpad-3/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura 80 pro plus",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163×76.1×8.3 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1276,
+          "hpx": 2848,
+          "diagonal": 6.8,
+          "ppi": 460,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura80-pro-plus/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura 80 ultra",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163×76.1×8.3 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1276,
+          "hpx": 2848,
+          "diagonal": 6.8,
+          "ppi": 460,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura80-ultra/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "畅玩 80m",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "167.00×77.00×7.89 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 720,
+          "hpx": 1600,
+          "diagonal": 6.75,
+          "ppi": 259.9,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-changwan-80m/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "MatePad Pro 12英寸",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "264.2×172.9×4.7 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 3036,
+          "hpx": 1952,
+          "diagonal": 12.0,
+          "ppi": 302,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/tablets/matepad-pro-12/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "X80i",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "157.43×75.35×7.34 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1200,
+          "hpx": 2600,
+          "diagonal": 6.6,
+          "ppi": 433.9,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-x80i/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "MatePad 11.5 S 2025",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "261.0×177.3×6.1 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2800,
+          "hpx": 1840,
+          "diagonal": 11.5,
+          "ppi": 291,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/tablets/matepad-11-5-s-2025/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic8 RSR 保时捷设计",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "161.15×75×8.45 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1256,
+          "hpx": 2808,
+          "diagonal": 6.71,
+          "ppi": 458.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic8-rsr-porsche-design/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "600",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "156.0×74.7×7.95 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1264,
+          "hpx": 2728,
+          "diagonal": 6.57,
+          "ppi": 457.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-600/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura 90 pro max",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "164×77.1×8.1 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1308,
+          "hpx": 2880,
+          "diagonal": 6.9,
+          "ppi": 460,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura90-pro-max/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 GT",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "259.1×176.1×6.12 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2800,
+          "hpx": 1840,
+          "diagonal": 11.5,
+          "ppi": 291,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-gt/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 10 Pro",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "259.1×176.1×6.1 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2800,
+          "hpx": 1840,
+          "diagonal": 11.5,
+          "ppi": 291,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-10-pro/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "MagicPad 4 12.1英寸",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "277.07×179.28×6.29 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 3000,
+          "hpx": 1872,
+          "diagonal": 12.1,
+          "ppi": 292,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-magicpad-4/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "WIN RT",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163.1×76.6×8.3 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1272,
+          "hpx": 2800,
+          "diagonal": 6.83,
+          "ppi": 450.3,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-win-rt/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 X10 Pro",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "267.3×167.4×6.77 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2508,
+          "hpx": 1504,
+          "diagonal": 11.5,
+          "ppi": 255,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-x10-pro/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 X10",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "256.91×168.46×7.25 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1920,
+          "hpx": 1200,
+          "diagonal": 11.0,
+          "ppi": 207,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-x10/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "畅玩 80",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "167.00×77.00×7.89 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 720,
+          "hpx": 1600,
+          "diagonal": 6.75,
+          "ppi": 259.9,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-changwan-80/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 10",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "277.07×179.28×6.29 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2560,
+          "hpx": 1600,
+          "diagonal": 12.1,
+          "ppi": 249,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-10/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate 80",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "161.85×76×7.95 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1280,
+          "hpx": 2832,
+          "diagonal": 6.75,
+          "ppi": 460.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/mate80/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "X70 Pro Max",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "161.9×76.1×7.76 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1200,
+          "hpx": 2640,
+          "diagonal": 6.79,
+          "ppi": 427.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-x70-pro-max/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 V9",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "259.1×176.1×6.1 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2800,
+          "hpx": 1840,
+          "diagonal": 11.5,
+          "ppi": 291,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-v9/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 GT 2 Pro",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "277.80×190.93×5.95 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 3048,
+          "hpx": 2032,
+          "diagonal": 12.5,
+          "ppi": 294,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-gt-2-pro/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Power",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163.7×76.7×7.98 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1224,
+          "hpx": 2700,
+          "diagonal": 6.78,
+          "ppi": 437.2,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-power/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "X60 GT",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "161×74.2×7.7 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1200,
+          "hpx": 2664,
+          "diagonal": 6.7,
+          "ppi": 436.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-x60-gt/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "WIN Turbo",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "162.1×76.3×7.98 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1200,
+          "hpx": 2640,
+          "diagonal": 6.79,
+          "ppi": 427.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-win-turbo/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "500",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "155.8×74.2×7.75 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1264,
+          "hpx": 2736,
+          "diagonal": 6.55,
+          "ppi": 460.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-500/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "畅玩 70C",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "167.00×77.00×7.89 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 720,
+          "hpx": 1600,
+          "diagonal": 6.75,
+          "ppi": 259.9,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-changwan-70c/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "nova 15 pro",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163×78×6.9 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1320,
+          "hpx": 2856,
+          "diagonal": 6.84,
+          "ppi": 460.0,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/nova15-pro/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Play10T",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "166.89×76.8×8.24 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1080,
+          "hpx": 2412,
+          "diagonal": 6.8,
+          "ppi": 388.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-play10t/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Play10C",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163.95×75.6×8.39 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 720,
+          "hpx": 1604,
+          "diagonal": 6.61,
+          "ppi": 266.0,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-play10c/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "500 Pro",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "155.8×74.2×7.75 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1264,
+          "hpx": 2736,
+          "diagonal": 6.55,
+          "ppi": 460.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-500-pro/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "畅玩 70 Plus",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "166.89×76.8×8.24 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 720,
+          "hpx": 1610,
+          "diagonal": 6.77,
+          "ppi": 260.5,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-changwan-70-plus/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate 80 rs ultimate design",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "164.4×79×8.25 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1320,
+          "hpx": 2848,
+          "diagonal": 6.9,
+          "ppi": 454.9,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/mate80-rs-ultimate-design/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic8 Pro",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "161.15×75×8.32 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1256,
+          "hpx": 2808,
+          "diagonal": 6.71,
+          "ppi": 458.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic8-pro/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic8",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "157.12×74.03×7.95 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1256,
+          "hpx": 2760,
+          "diagonal": 6.58,
+          "ppi": 460.8,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic8/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "nova 14 pro",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163.4×75.0×7.68 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1224,
+          "hpx": 2776,
+          "diagonal": 6.78,
+          "ppi": 447.5,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/nova14-pro/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "MagicPad 3 Pro 13.3英寸",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "293.88×201.38×5.79 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 3200,
+          "hpx": 2136,
+          "diagonal": 13.3,
+          "ppi": 291,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-magicpad-3-pro/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "WIN",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163.1×76.6×8.3 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1272,
+          "hpx": 2800,
+          "diagonal": 6.83,
+          "ppi": 450.3,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-win/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "nova 14",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "161.73×75.48×7.18 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1084,
+          "hpx": 2412,
+          "diagonal": 6.7,
+          "ppi": 394.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/nova14/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "MatePad Air 12英寸",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "182.9×271.6×5.3 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2800,
+          "hpx": 1840,
+          "diagonal": 12.0,
+          "ppi": 275,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/tablets/matepad-air-12/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "MatePad Air 2025",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "183×270×5.9 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2800,
+          "hpx": 1840,
+          "diagonal": 12.0,
+          "ppi": 280,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/tablets/matepad-air-2025/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "nova 15",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "161.87×75.5×7.2 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1084,
+          "hpx": 2412,
+          "diagonal": 6.7,
+          "ppi": 394.7,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/nova15/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "600 Pro",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "156.1×74.8×7.88 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1264,
+          "hpx": 2728,
+          "diagonal": 6.57,
+          "ppi": 457.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-600-pro/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Play10",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "166.89×76.8×8.24 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1080,
+          "hpx": 2412,
+          "diagonal": 6.8,
+          "ppi": 388.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-play10/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 X9",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "256.91×168.46×7.25 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1920,
+          "hpx": 1200,
+          "diagonal": 11.0,
+          "ppi": 207,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-x9/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura 90 pro",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "157.8×74.5×8.2 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1256,
+          "hpx": 2760,
+          "diagonal": 6.6,
+          "ppi": 460,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura90-pro/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura 80 pro",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163×76.1×8.3 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1276,
+          "hpx": 2848,
+          "diagonal": 6.8,
+          "ppi": 460,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura80-pro/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 GT Pro",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "274.5×180.5×5.8 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 3000,
+          "hpx": 1920,
+          "diagonal": 12.3,
+          "ppi": 290,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-gt-pro/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "nova 15 ultra",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163×78×6.8 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1320,
+          "hpx": 2856,
+          "diagonal": 6.84,
+          "ppi": 460.0,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/nova15-ultra/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "X70",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "161.9×76.1×7.76 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1200,
+          "hpx": 2640,
+          "diagonal": 6.79,
+          "ppi": 427.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-x70/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 X9 Pro",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "267.3×167.4×6.77 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2000,
+          "hpx": 1200,
+          "diagonal": 11.5,
+          "ppi": 203,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-x9-pro/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "X70i",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "161×74.55×7.29 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1080,
+          "hpx": 2412,
+          "diagonal": 6.7,
+          "ppi": 394.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-x70i/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Power2",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "162.1×76.3×7.98 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1200,
+          "hpx": 2640,
+          "diagonal": 6.79,
+          "ppi": 427.1,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-power2/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "畅玩 80 Pro",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "166.89×76.8×8.24 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 720,
+          "hpx": 1610,
+          "diagonal": 6.8,
+          "ppi": 259.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-changwan-80-pro/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "畅玩 80 Plus",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163.9×75.9×8.29 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 720,
+          "hpx": 1604,
+          "diagonal": 6.61,
+          "ppi": 266.0,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-changwan-80-plus/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "平板 X10 Pro Max",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "297.62×192.72×6.72 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2500,
+          "hpx": 1560,
+          "diagonal": 13.0,
+          "ppi": 228,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-pad-x10-pro-max/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate 80 pro max",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "164.4×79×8.25 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1320,
+          "hpx": 2848,
+          "diagonal": 6.9,
+          "ppi": 454.9,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/mate80-pro-max/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "MatePad Mini",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "198.59×127.27×5.1 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2560,
+          "hpx": 1600,
+          "diagonal": 8.8,
+          "ppi": 343,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/tablets/matepad-mini/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "Mate 80 pro",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "161.85×76×7.95 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1280,
+          "hpx": 2832,
+          "diagonal": 6.75,
+          "ppi": 460.4,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/mate80-pro/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "MatePad 11.5 2026",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "177.5×262.6×6.1 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 2456,
+          "hpx": 1600,
+          "diagonal": 11.5,
+          "ppi": 256,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/tablets/matepad-11-5-2026/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "MagicPad 3 12.5英寸",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "277.80×190.93×5.88 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 3048,
+          "hpx": 2032,
+          "diagonal": 12.5,
+          "ppi": 294,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-magicpad-3-12-5/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura 90",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163.1×78.1×7.0 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1320,
+          "hpx": 2856,
+          "diagonal": 6.8,
+          "ppi": 460,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura90/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "Pura 80",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "157.7×74.4×8.2 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1256,
+          "hpx": 2760,
+          "diagonal": 6.6,
+          "ppi": 460,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/pura80/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "MagicPad 3 Pro 12.3英寸",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "273.4×178.8×4.8 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 3000,
+          "hpx": 1920,
+          "diagonal": 12.3,
+          "ppi": 290,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/tablets/honor-magicpad-3-pro-12-3/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "荣耀",
+      "model": "Magic8 Pro Air",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "150.5×71.9×6.1 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1216,
+          "hpx": 2640,
+          "diagonal": 6.31,
+          "ppi": 460.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "荣耀官方规格",
+          "url": "https://www.honor.com/cn/phones/honor-magic8-pro-air/spec/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。"
+    },
+    {
+      "brand": "华为",
+      "model": "MatePad SE 11英寸",
+      "year": null,
+      "type": "平板",
+      "form": "平板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "252.3×163.8×6.9 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1920,
+          "hpx": 1200,
+          "diagonal": 11.0,
+          "ppi": 207,
+          "ppiKind": "官方",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/tablets/matepad-se-11/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "nova 14 ultra",
+      "year": null,
+      "type": "手机",
+      "form": "直板",
+      "market": "待核实",
+      "bodyFold": null,
+      "bodyOpen": null,
+      "body": "163.4×75.6×7.78 mm",
+      "screens": [
+        {
+          "name": "主屏",
+          "wpx": 1272,
+          "hpx": 2860,
+          "diagonal": 6.81,
+          "ppi": 459.6,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "华为官方规格",
+          "url": "https://consumer.huawei.com/cn/phones/nova14-ultra/specs/"
+        }
+      ],
+      "notes": "官网参数页可访问；截至2026-10-26的正式发布时间及中国大陆当前在售状态待逐项核实，不能仅凭网页存在认定在售。机身尺寸选首个列示版本。原生鸿蒙使用 vp，逻辑尺寸需实机读取。"
+    },
+    {
+      "brand": "华为",
+      "model": "nova Flip",
+      "year": 2024,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "87.76×75.4×15.12 mm",
+      "bodyOpen": "169.77×75.4×6.9 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1136,
+          "hpx": 2690,
+          "diagonal": 6.94,
+          "ppi": 420.8,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 480,
+          "hpx": 480,
+          "diagonal": 2.14,
+          "ppi": 317.2,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "原始上手评测/正式发布报道",
+          "url": "https://ithome.com/0/787/020.htm"
+        },
+        {
+          "title": "中国大陆公开型号规格（厂商旧页撤下后的辅助参数来源）",
+          "url": "https://detail.zol.com.cn/series/57/613/param_10903491_0_1.html"
+        },
+        {
+          "title": "华为支持列表确认novaFlip及FlipS",
+          "url": "https://consumer.huawei.com/cn/support/content/zh-cn16117624/"
+        }
+      ],
+      "notes": "玻璃版尺寸；素皮版厚度展开6.88、折叠15.08 mm。官方旧规格页重定向，依据原始评测/发布报道及公开参数表核实，非厂商当前规格页直接核验。外屏为方形，无圆形换算问题。"
+    },
+    {
+      "brand": "华为",
+      "model": "nova Flip S",
+      "year": 2025,
+      "type": "手机",
+      "form": "竖折",
+      "market": "历史已发布",
+      "bodyFold": "87.76×75.4×15.12 mm",
+      "bodyOpen": "169.77×75.4×6.9 mm",
+      "body": null,
+      "screens": [
+        {
+          "name": "内屏",
+          "wpx": 1136,
+          "hpx": 2690,
+          "diagonal": 6.94,
+          "ppi": 420.8,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        },
+        {
+          "name": "外屏",
+          "wpx": 480,
+          "hpx": 480,
+          "diagonal": 2.14,
+          "ppi": 317.2,
+          "ppiKind": "计算",
+          "densityDpi": null,
+          "logical": null
+        }
+      ],
+      "sources": [
+        {
+          "title": "原始上手评测/正式发布报道",
+          "url": "https://mobile.zol.com.cn/1064/10641305.html"
+        },
+        {
+          "title": "中国大陆公开型号规格（厂商旧页撤下后的辅助参数来源）",
+          "url": "https://detail.zol.com.cn/2145/2144836/param.shtml"
+        },
+        {
+          "title": "华为支持列表确认novaFlip及FlipS",
+          "url": "https://consumer.huawei.com/cn/support/content/zh-cn16117624/"
+        }
+      ],
+      "notes": "玻璃版尺寸；素皮版厚度展开6.88、折叠15.08 mm。官方旧规格页重定向，依据原始评测/发布报道及公开参数表核实，非厂商当前规格页直接核验。外屏为方形，无圆形换算问题。"
+    }
+  ],
+  "coverageNotes": [
+    "华为历史折叠均已至少补充屏幕数字。MateX2典藏、MateX3典藏等部分特别版独立机身仍缺失，须保留空值。来源按厂商页面、历史原始报道、存档规格分层标注；不可把全部数值描述为厂家直接核验。",
+    "荣耀历代折叠屏参数已按官方页整理，常规配色/存储不拆行，高定和至臻单列。",
+    "直板/平板列表为官网参数页验证候选，当前列售和发布截止日期尚未逐项确认，故标待核实。",
+    "部分实时官网导航已出现可能晚于2026-10-26的产品；不要将导航存在当成截至日期发布证明。"
+  ]
+}

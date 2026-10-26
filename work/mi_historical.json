@@ -1,0 +1,242 @@
+[
+  {
+    "brand": "小米",
+    "model": "MIX Fold",
+    "year": 2021,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "body": null,
+    "bodyFold": "173.27×69.8×17.2",
+    "bodyOpen": "173.27×133.38×7.62",
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1860,
+        "hpx": 2480,
+        "diagonal": 8.01,
+        "ppi": 387.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 840,
+        "hpx": 2520,
+        "diagonal": 6.52,
+        "ppi": 407.4,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "MIX Fold 官方参数",
+        "url": "https://www.mi.com/mixfold/specs"
+      }
+    ],
+    "notes": "官方规格页面及其官方模块脚本文本核验；历史已发布不代表当前停售。厚度区间对应材质版本，Flip 2上限为钻石限定版。Android逻辑尺寸和逻辑密度需实机读取。"
+  },
+  {
+    "brand": "小米",
+    "model": "MIX Fold 2",
+    "year": 2022,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "body": null,
+    "bodyFold": "161.6×73.9×11.2",
+    "bodyOpen": "161.6×144.7×5.4",
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1914,
+        "hpx": 2160,
+        "diagonal": 8.02,
+        "ppi": 359.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.56,
+        "ppi": 417.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "MIX Fold 2 官方参数",
+        "url": "https://www.mi.com/xiaomimixfold2/specs"
+      }
+    ],
+    "notes": "官方规格页面及其官方模块脚本文本核验；历史已发布不代表当前停售。厚度区间对应材质版本，Flip 2上限为钻石限定版。Android逻辑尺寸和逻辑密度需实机读取。"
+  },
+  {
+    "brand": "小米",
+    "model": "MIX Fold 3",
+    "year": 2023,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "body": null,
+    "bodyFold": "161.2×73.5×10.86–10.96",
+    "bodyOpen": "161.2×143.28×5.26",
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1916,
+        "hpx": 2160,
+        "diagonal": 8.03,
+        "ppi": 359.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.56,
+        "ppi": 417.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "MIX Fold 3 官方参数",
+        "url": "https://www.mi.com/xiaomi-mix-fold-3/specs"
+      }
+    ],
+    "notes": "官方规格页面及其官方模块脚本文本核验；历史已发布不代表当前停售。厚度区间对应材质版本，Flip 2上限为钻石限定版。Android逻辑尺寸和逻辑密度需实机读取。"
+  },
+  {
+    "brand": "小米",
+    "model": "MIX Fold 4",
+    "year": 2024,
+    "type": "手机",
+    "form": "横折",
+    "market": "历史已发布",
+    "body": null,
+    "bodyFold": "159.37×73.1×9.47",
+    "bodyOpen": "159.37×143.3×4.59",
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 2224,
+        "hpx": 2488,
+        "diagonal": 7.98,
+        "ppi": 418.2,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1080,
+        "hpx": 2520,
+        "diagonal": 6.56,
+        "ppi": 417.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "MIX Fold 4 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-mix-fold-4/specs"
+      }
+    ],
+    "notes": "官方规格页面及其官方模块脚本文本核验；历史已发布不代表当前停售。厚度区间对应材质版本，Flip 2上限为钻石限定版。Android逻辑尺寸和逻辑密度需实机读取。"
+  },
+  {
+    "brand": "小米",
+    "model": "MIX Flip",
+    "year": 2024,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "body": null,
+    "bodyFold": "85.54×74.02×15.99",
+    "bodyOpen": "167.5×74.02×7.6–7.8",
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1224,
+        "hpx": 2912,
+        "diagonal": 6.86,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1208,
+        "hpx": 1392,
+        "diagonal": 4.01,
+        "ppi": 460,
+        "ppiKind": "官方",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "MIX Flip 官方参数",
+        "url": "https://www.mi.com/global/product/xiaomi-mix-flip/specs"
+      }
+    ],
+    "notes": "官方规格页面及其官方模块脚本文本核验；历史已发布不代表当前停售。厚度区间对应材质版本，Flip 2上限为钻石限定版。Android逻辑尺寸和逻辑密度需实机读取。"
+  },
+  {
+    "brand": "小米",
+    "model": "MIX Flip 2",
+    "year": 2025,
+    "type": "手机",
+    "form": "竖折",
+    "market": "历史已发布",
+    "body": null,
+    "bodyFold": "86.13×73.8×15.87–16.16",
+    "bodyOpen": "166.89×73.8×7.57–7.76",
+    "screens": [
+      {
+        "name": "内屏",
+        "wpx": 1224,
+        "hpx": 2912,
+        "diagonal": 6.86,
+        "ppi": 460.5,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      },
+      {
+        "name": "外屏",
+        "wpx": 1208,
+        "hpx": 1392,
+        "diagonal": 4.01,
+        "ppi": 459.6,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "MIX Flip 2 官方参数",
+        "url": "https://www.mi.com/prod/xiaomi-mix-flip2/specs"
+      }
+    ],
+    "notes": "官方规格页面及其官方模块脚本文本核验；历史已发布不代表当前停售。厚度区间对应材质版本，Flip 2上限为钻石限定版。Android逻辑尺寸和逻辑密度需实机读取。"
+  }
+]

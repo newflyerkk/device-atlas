@@ -1,0 +1,172 @@
+[
+  {
+    "brand": "三星",
+    "model": "Galaxy S25",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "146.9×70.5×7.2",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2340,
+        "diagonal": 6.2,
+        "ppi": 415.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网列售页面",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-s25/buy/"
+      },
+      {
+        "title": "三星官方规格",
+        "url": "https://news.samsung.com/sg/samsung-galaxy-s25-series-sets-the-standard-of-ai-phone-as-a-true-ai-companion"
+      }
+    ],
+    "notes": "官网列售不等于库存确认；S25系列购买页部分颜色明确缺货。A56仅确认中国商务产品页，当前可成交状态待核验。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy S25+",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "158.4×75.8×7.3",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3120,
+        "diagonal": 6.7,
+        "ppi": 512.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网列售页面",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-s25/buy/"
+      },
+      {
+        "title": "三星官方规格",
+        "url": "https://www.samsung.com.cn/business/smartphones/galaxy-s/galaxy-s25-plus-sm-s9360dbdchc/"
+      }
+    ],
+    "notes": "官网列售不等于库存确认；S25系列购买页部分颜色明确缺货。A56仅确认中国商务产品页，当前可成交状态待核验。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy S25 Ultra",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "162.8×77.6×8.2",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3120,
+        "diagonal": 6.9,
+        "ppi": 498.0,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网列售页面",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-s25-ultra/buy/"
+      },
+      {
+        "title": "三星官方规格",
+        "url": "https://news.samsung.com/sg/samsung-galaxy-s25-series-sets-the-standard-of-ai-phone-as-a-true-ai-companion"
+      }
+    ],
+    "notes": "官网列售不等于库存确认；S25系列购买页部分颜色明确缺货。A56仅确认中国商务产品页，当前可成交状态待核验。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy S25 Edge",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "当前官网列售",
+    "body": "158.2×75.6×5.8",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1440,
+        "hpx": 3120,
+        "diagonal": 6.7,
+        "ppi": 512.9,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网列售页面",
+        "url": "https://www.samsung.com.cn/smartphones/galaxy-s25-edge/buy/"
+      },
+      {
+        "title": "三星官方规格",
+        "url": "https://www.samsung.com.cn/business/smartphones/galaxy-s/galaxy-s25-edge-sm-s9370zkgchc/"
+      }
+    ],
+    "notes": "官网列售不等于库存确认；S25系列购买页部分颜色明确缺货。A56仅确认中国商务产品页，当前可成交状态待核验。"
+  },
+  {
+    "brand": "三星",
+    "model": "Galaxy A56 5G",
+    "year": 2025,
+    "type": "手机",
+    "form": "直板",
+    "market": "待核实",
+    "body": "162.2×77.5×7.4",
+    "bodyFold": null,
+    "bodyOpen": null,
+    "screens": [
+      {
+        "name": "主屏",
+        "wpx": 1080,
+        "hpx": 2340,
+        "diagonal": 6.7,
+        "ppi": 384.7,
+        "ppiKind": "计算",
+        "densityDpi": null,
+        "logical": null
+      }
+    ],
+    "sources": [
+      {
+        "title": "中国官网列售页面",
+        "url": "https://www.samsung.com.cn/business/smartphones/galaxy-a/galaxy-a56-5g-sm-a5660zadchc/"
+      },
+      {
+        "title": "三星官方规格",
+        "url": "https://www.samsung.com.cn/business/smartphones/galaxy-a/galaxy-a56-5g-sm-a5660zadchc/"
+      }
+    ],
+    "notes": "官网列售不等于库存确认；S25系列购买页部分颜色明确缺货。A56仅确认中国商务产品页，当前可成交状态待核验。"
+  }
+]
