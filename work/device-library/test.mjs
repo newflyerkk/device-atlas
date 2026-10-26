@@ -19,6 +19,12 @@ assert.ok(foldRows.includes('rowspan="3"'));assert.equal((foldRows.match(/data-d
 run("selectedForms.add('横折');selectedForms.add('三折')");assert.equal(run("filtered().every(d=>['横折','三折'].includes(d.form))"),true);run('selectedForms.clear()');
 run("state.catalogType='平板';state.brand='苹果'");assert.equal(run("filtered().every(d=>d.type==='平板'&&d.brand==='苹果')"),true);run("state.catalogType='';state.brand=''");
 
+assert.equal(run("deviceAppearance({type:'手机',form:'三折'}).kind"),'trifold');
+assert.equal(run("deviceAppearance({type:'平板'}).kind"),'tablet');
+assert.equal(run("deviceAppearance({type:'手机',form:'横折',model:'Pura X',screens:[{}]}).kind"),'widefold');
+const dimensionHtml=run("bodyDimensionsHtml('高 约 164.8 毫米 宽 约 75.5 毫米 厚 约 7.85 毫米（玉石绿） 约 7.75 毫米（黑）')");
+assert.equal((dimensionHtml.match(/class="body-dimension"/g)||[]).length,3);assert.ok(dimensionHtml.includes('7.9'));assert.ok(dimensionHtml.includes('玉石绿'));assert.ok(!dimensionHtml.includes('毫米'));
+assert.equal((run("bodyDimensionsHtml('150×71.9×8.75 mm')").match(/class="body-dimension"/g)||[]).length,3);
 assert.equal(run('phys(65.16)'),'65.2');assert.equal(run('phys(8.25)'),'8.3');assert.equal(run('phys(-0.05)'),'-0.1');
 assert.equal(run("official(DEVICES.find(d=>d.brand==='iQOO')).url.includes('vivo.com.cn')"),true);
 assert.equal(run("state.sort='releaseDate';state.dir=-1;filtered().filter(d=>d.releaseDate).every((d,i,a)=>i===0||d.releaseDate<=a[i-1].releaseDate)"),true);
