@@ -5,7 +5,7 @@ const html=fs.readFileSync('outputs/device-library/index.html','utf8');
 const data=html.match(/<script id="device-data" type="application\/json">([\s\S]*?)<\/script>/)[1];
 const scripts=[...html.matchAll(/<script>([\s\S]*?)<\/script>/g)].map(m=>m[1]);
 const els=new Map(),storage=new Map();
-function el(key){if(!els.has(key))els.set(key,{value:'',textContent:'',innerHTML:'',hidden:false,disabled:false,checked:false,style:{setProperty(){}},dataset:{},classList:{toggle(){},remove(){},contains(){return false;}},addEventListener(){},setAttribute(){},getAttribute(){},insertAdjacentHTML(){},insertBefore(){},append(){},remove(){},click(){},showModal(){this.open=true;},close(){this.open=false;}});return els.get(key);}
+function el(key){if(!els.has(key))els.set(key,{value:'',textContent:'',innerHTML:'',hidden:false,disabled:false,checked:false,style:{setProperty(){}},dataset:{},classList:{toggle(){},add(){},remove(){},contains(){return false;}},listeners:{},addEventListener(type,fn){this.listeners[type]=fn;},setAttribute(){},getAttribute(){},insertAdjacentHTML(){},insertBefore(){},append(){},remove(){},click(){},showModal(){this.open=true;},close(){this.open=false;}});return els.get(key);}
 el('device-data').textContent=data;
 for(const[id,value]of Object.entries({'#calc-w':1080,'#calc-h':2400,'#calc-density':3,'#calc-ppi':421,'#calc-key':44,'#calib-reference':100,'#calib-number':4}))el(id).value=String(value);
 const sandbox={console,URL,Blob,setTimeout,clearTimeout,Map,Set,JSON,Number,Math,Date,FileReader:class{},Image:class{},localStorage:{getItem:k=>storage.get(k)||null,setItem:(k,v)=>storage.set(k,v)},window:{devicePixelRatio:2,screen:{width:1920,height:1080},addEventListener(){},scrollTo(){}},document:{getElementById:el,querySelector:el,querySelectorAll:()=>[],addEventListener(){},body:el('body'),createElement:()=>el('created')}};
@@ -40,5 +40,12 @@ assert.ok(el('#bench-stage').innerHTML.includes('width:260.6365795724466px'));
 run('window.devicePixelRatio=1;renderStage()');assert.equal(run('bench.mode'),'fit');assert.equal(run('calibrationValid()'),false);
 run('calculate()');assert.equal(el('#physical-result').textContent,'65.2 × 144.8 mm');
 assert.equal(run("metrics({wpx:340,hpx:340,diagonal:1.04,shape:'circle'}).width.toFixed(3)"),'26.416');
-const report={models:run('DEVICES.length'),dateCount:run('DEVICES.filter(d=>d.releaseDate).length'),passed:['script initialization','rounding to 0.1mm','official domain matching','release-date sorting','resolution sorting','multi-device workbench','calibrated pixel dimensions','zoom invalidation','calculator','circular display geometry','grouped brands and type filtering','multi-select form tags','expanded foldable screen rows','newest-first workbench ordering','square UI and illustrative phone shells']};
+const viewport=el('#bench-scroll');viewport.setPointerCapture=()=>{};viewport.hasPointerCapture=()=>false;
+const event=(x,y,control=false)=>({pointerType:'mouse',pointerId:1,button:0,clientX:x,clientY:y,target:{closest:()=>control?{}:null},preventDefault(){}});
+viewport.listeners.pointerdown(event(300,300));viewport.listeners.pointermove(event(160,240));viewport.listeners.pointerup(event(160,240));
+assert.equal(el('#bench-stage').style.transform,'translate(-140px,-60px)');
+viewport.listeners.pointerdown(event(0,0,true));viewport.listeners.pointermove(event(100,100));assert.equal(el('#bench-stage').style.transform,'translate(-140px,-60px)');
+const beforePan=el('#bench-stage').style.transform;run('renderStage()');assert.equal(el('#bench-stage').style.transform,beforePan);
+assert.ok(!el('#bench-stage').innerHTML.includes('仅屏幕 · 不含边框'));run('resetCanvasPan()');assert.equal(el('#bench-stage').style.transform,'translate(0px,0px)');
+const report={models:run('DEVICES.length'),dateCount:run('DEVICES.filter(d=>d.releaseDate).length'),passed:['script initialization','rounding to 0.1mm','official domain matching','release-date sorting','resolution sorting','multi-device workbench','calibrated pixel dimensions','zoom invalidation','calculator','circular display geometry','grouped brands and type filtering','multi-select form tags','expanded foldable screen rows','newest-first workbench ordering','square UI and illustrative phone shells','pointer panning and control exclusion','pan persistence and reset']};
 fs.writeFileSync('work/device-library/qa.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report,null,2));
