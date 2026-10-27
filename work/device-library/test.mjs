@@ -21,7 +21,9 @@ run("state.catalogType='平板';state.brand='苹果'");assert.equal(run("filtere
 
 assert.equal(run("deviceAppearance({type:'手机',form:'三折'}).kind"),'trifold');
 assert.equal(run("deviceAppearance({type:'平板'}).kind"),'tablet');
-assert.equal(run("deviceAppearance({type:'手机',form:'横折',model:'Pura X',screens:[{}]}).kind"),'widefold');
+assert.equal(run("deviceAppearance({type:'手机',form:'横折',model:'Pura X',foldCategory:'阔折叠',screens:[{}]}).kind"),'widefold');
+run("selectedForms.add('阔折叠')");assert.equal(run("filtered().length>=6&&filtered().every(d=>d.foldCategory==='阔折叠')"),true);run("selectedForms.clear()");
+assert.equal(run("deviceAppearance({type:'手机',form:'横折',model:'Find N2',screens:[{wpx:1920,hpx:1792}]}).kind"),'fold');
 const dimensionHtml=run("bodyDimensionsHtml('高 约 164.8 毫米 宽 约 75.5 毫米 厚 约 7.85 毫米（玉石绿） 约 7.75 毫米（黑）')");
 assert.equal((dimensionHtml.match(/class="body-dimension"/g)||[]).length,3);assert.ok(dimensionHtml.includes('7.9'));assert.ok(dimensionHtml.includes('玉石绿'));assert.ok(!dimensionHtml.includes('毫米'));
 assert.equal((run("bodyDimensionsHtml('150×71.9×8.75 mm')").match(/class="body-dimension"/g)||[]).length,3);

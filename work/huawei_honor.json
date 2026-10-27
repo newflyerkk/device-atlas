@@ -966,7 +966,9 @@
           "url": "https://consumer.huawei.com/cn/phones/pura-x/specs/"
         }
       ],
-      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。"
+      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。",
+      "foldCategory": "阔折叠",
+      "foldCategoryNote": "阔型折叠形态：与折叠方向分别记录；不把所有横折机型视作阔折叠。2026-10-27核查。"
     },
     {
       "brand": "华为",
@@ -1006,7 +1008,9 @@
           "url": "https://consumer.huawei.com/cn/phones/pura-x/specs/"
         }
       ],
-      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。"
+      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。",
+      "foldCategory": "阔折叠",
+      "foldCategoryNote": "阔型折叠形态：与折叠方向分别记录；不把所有横折机型视作阔折叠。2026-10-27核查。"
     },
     {
       "brand": "华为",
@@ -1046,7 +1050,9 @@
           "url": "https://consumer.huawei.com/cn/phones/pura-x-max/specs/"
         }
       ],
-      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。"
+      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。",
+      "foldCategory": "阔折叠",
+      "foldCategoryNote": "阔型折叠形态：与折叠方向分别记录；不把所有横折机型视作阔折叠。2026-10-27核查。"
     },
     {
       "brand": "华为",
@@ -1086,7 +1092,9 @@
           "url": "https://consumer.huawei.com/cn/phones/pura-x-max/specs/"
         }
       ],
-      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。"
+      "notes": "HarmonyOS 原生鸿蒙逻辑单位为 vp，未公开固定逻辑密度。",
+      "foldCategory": "阔折叠",
+      "foldCategoryNote": "阔型折叠形态：与折叠方向分别记录；不把所有横折机型视作阔折叠。2026-10-27核查。"
     },
     {
       "brand": "华为",

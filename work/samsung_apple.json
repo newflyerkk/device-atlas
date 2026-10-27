@@ -1377,7 +1377,9 @@
         "url": "https://www.apple.com.cn/iphone-duo/specs/"
       }
     ],
-    "notes": "中国官网已列购买；内屏横向展开。"
+    "notes": "中国官网已列购买；内屏横向展开。",
+    "foldCategory": "阔折叠",
+    "foldCategoryNote": "阔型折叠形态：与折叠方向分别记录；不把所有横折机型视作阔折叠。2026-10-27核查。"
   },
   {
     "brand": "苹果",

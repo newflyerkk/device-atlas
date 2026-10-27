@@ -15,3 +15,4 @@
 /* Pan the canvas without scaling physical device dimensions. */
 #bench-scroll{overflow:hidden;cursor:grab;overscroll-behavior:contain}#page-workbench.canvas-fullscreen #bench-scroll{overflow:hidden}#bench-scroll.is-panning,#bench-scroll.is-panning *{cursor:grabbing!important;user-select:none}#bench-stage{transform-origin:0 0}#bench-scroll .hardware-screen img{-webkit-user-drag:none;user-select:none}#bench-scroll button,#bench-scroll .custom-select{cursor:pointer}#bench-scroll .select-menu{cursor:default}#bench-scroll:focus-visible{outline:2px solid var(--accent);outline-offset:-3px}
 #bench-scroll{touch-action:none}#bench-scroll .select-menu{touch-action:pan-y}
+.wide-fold-note{background:#f0f7f5;border:1px solid #d6e7e1;border-radius:10px;padding:12px 15px;margin-top:14px;font-size:12px;color:#355f55}.wide-fold-note p{margin:5px 0}.wide-source-links{display:flex;flex-wrap:wrap;gap:12px;font-size:11px;margin-top:8px}

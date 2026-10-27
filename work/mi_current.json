@@ -483,7 +483,9 @@
         "url": "https://mishop-pc.cnbj1.mi-fds.com/mishop-pc/production/mishop_pc/src/pages/xiaomi-18-fold/specs/index.html"
       }
     ],
-    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率按官方超级像素口径；内屏以横向展开方向列示。"
+    "notes": "截至2026-10-26官网导航列售；非逐SKU库存验证。分辨率按官方超级像素口径；内屏以横向展开方向列示。",
+    "foldCategory": "阔折叠",
+    "foldCategoryNote": "阔型折叠形态：与折叠方向分别记录；不把所有横折机型视作阔折叠。2026-10-27核查。"
   },
   {
     "brand": "小米",
